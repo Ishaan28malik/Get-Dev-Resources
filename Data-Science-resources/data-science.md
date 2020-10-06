@@ -1,6 +1,6 @@
 # Resources for Data Science 
 
-# Machine Learning / Artifical Intelligence
+## Machine Learning / Artifical Intelligence
 
 
 ## Tools
