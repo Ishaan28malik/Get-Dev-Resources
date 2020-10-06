@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>MINI CALCULATOR</title>
+		<style>
+			h1{
+				text-align:center;
+			}
+			form{
+				border:1px solid black; width:350px;
+			}
+			input{
+				width:75px;height:50px;
+			}
+			input:hover{
+				background-color:brown;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Mini Pocket Calculator</h1><hr>
+
+
+		<form style="text-align:center;background-color:rgb(171,141,24);" name="calculator">
+			<input type="textfield" name="ans" value="" placeholder="calculator" style="font-style:courier;width:340px;height:100px;font-size:35px;background-color: rgb(72,72,74);"><br>
+			<input type="button" value="AC" onclick="document.calculator.ans.value*='0'" style="width:115px;">
+			<input type="reset" value="TURN OFF" style="width:115px;">
+			<input type="button" value="%" onclick="document.calculator.ans.value*='0.01'"><br>
+			<input type="button" value="7" onclick="document.calculator.ans.value+='7'">
+			<input type="button" value="8" onclick="document.calculator.ans.value+='8'">
+			<input type="button" value="9" onclick="document.calculator.ans.value+='9'">
+			<input type="button" value="/" onclick="document.calculator.ans.value+='/'"><br>
+			<input type="button" value="4" onclick="document.calculator.ans.value+='4'">
+			<input type="button" value="5" onclick="document.calculator.ans.value+='5'">
+			<input type="button" value="6" onclick="document.calculator.ans.value+='6'">
+			<input type="button" value="*" onclick="document.calculator.ans.value+='*'"><br>
+			<input type="button" value="1" onclick="document.calculator.ans.value+='1'">
+			<input type="button" value="2" onclick="document.calculator.ans.value+='2'">
+			<input type="button" value="3" onclick="document.calculator.ans.value+='3'">
+			<input type="button" value="-" onclick="document.calculator.ans.value+='-'"><br>
+			<input type="button" value="0" onclick="document.calculator.ans.value+='0'">
+			<input type="button" value="." onclick="document.calculator.ans.value+='.'">
+			<input type="button" value="+" onclick="document.calculator.ans.value+='+'">
+			<input type="button" value="=" onclick="document.calculator.ans.value=eval(document.calculator.ans.value)"><br>
+		</form><hr>
+	</body>
+</html>
