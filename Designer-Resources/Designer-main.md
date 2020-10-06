@@ -17,6 +17,35 @@
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 
+## Tutorial
+
+- [Lynda](https://www.lynda.com/) is a leading online learning platform that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. 🌟
+- [CreativeLive](https://www.creativelive.com/)
+- [DesignSchool](https://designschool.canva.com/) Anyone can make beautiful designs with Canva.
+- [Envato Tuts+](https://tutsplus.com/) helps you learn creative skills and shape the life you want.
+- [Udemy](https://www.udemy.com/courses/design/) The leading global marketplace for learning and instruction.
+- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
+- [DevDojo](https://devdojo.com/)
+- [Platzi](https://courses.platzi.com) Growth marketing Course.
+- [greyscalegorilla](https://greyscalegorilla.com/)
+
+## Books
+
+- [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books&ie=UTF8&qid=1473096298&sr=1-2&keywords=Universal+Methods+of+Design)
+- [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/ref=pd_sim_14_3?ie=UTF8&psc=1&refRID=2NG71RWR7MKGXE1B8GZ3)
+- [Don't Make Me Think](https://www.amazon.com/gp/product/0321965515/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321965515&linkCode=as2&tag=office03a70-20&linkId=PF4EASLP4EM62N73)
+- [About Face: The Essentials of Interaction Design](https://www.amazon.com/gp/product/1118766571/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118766571&linkCode=as2&tag=office03a70-20&linkId=I5TMKUXHZ43SHHPE)
+- [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830)
+- [Simple and Usable Web, Mobile, and Interaction Design](https://www.amazon.com/gp/product/0321703545)
+- [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
+- [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702)
+- [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+- [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
+- [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
+- [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
+- [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
+- [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+
 ## Podcast
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
