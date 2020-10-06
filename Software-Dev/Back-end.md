@@ -3,6 +3,7 @@
 # Languages
 
 - [DevOps](#devops)
+- [Architecture](#architecture)
 - [Golang](#golang)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -16,6 +17,10 @@
 ## DevOps
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
+
+## Architecture
+- [Explicit Architecture](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+- [Micro frontends](https://martinfowler.com/articles/micro-frontends.html)
 
 ## Golang
 - [Golang](https://github.com/avelino/awesome-go)
