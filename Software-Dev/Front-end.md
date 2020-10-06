@@ -15,6 +15,10 @@
 - [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 - [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 - [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
+- [UIKit](https://github.com/uikit/uikit) - UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.
+- [Pure](https://github.com/pure-css/pure/) - A set of small, responsive CSS modules that you can use in every web project.
+- [Milligram](https://github.com/milligram/milligram) - Milligram provides a minimal setup of styles for a fast and clean starting point.
+- [Foundation](https://github.com/foundation/foundation-sites) - Foundation is the most advanced responsive front-end framework in the world. Quickly go from prototype to production, building sites or apps that work on any kind of device with Foundation.
 
 ### CSS Animation
 
