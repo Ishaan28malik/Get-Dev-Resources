@@ -79,6 +79,10 @@
 - [Dynamically Loading Controllers and Views with AngularJS/$controllerProvider and RequireJS](http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs)
 - [Mobile Angular UI](https://github.com/mcasimir/mobile-angular-ui) - Angular & Bootstrap 3 for Mobile web and applications.
 
+### Native Script
+
+ - [Native Script Playground](https://play.nativescript.org/) - Best place to get started with preloaded templates to get started with native mobile aplications. Provides front end help in multiple languages including Vue, React, Angular. Preloaded backend templates included.
+ 
 ### React
 
 - [React](https://facebook.github.io/react/), [github](https://github.com/facebook/react)
