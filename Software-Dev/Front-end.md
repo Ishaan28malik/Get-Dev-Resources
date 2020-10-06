@@ -219,3 +219,11 @@
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
+
+## Newsletters 
+
+- [Friday Front-end](https://zendev.com/friday-frontend.html)
+- [UI Dev Newsletter](https://mentor.silvestar.codes/reads)
+- [TypeScript Weekly](https://www.typescript-weekly.com)
+- [The React Digest](https://www.getrevue.co/profile/the-react-digest)
+- [Sass News](http://sass.news)
