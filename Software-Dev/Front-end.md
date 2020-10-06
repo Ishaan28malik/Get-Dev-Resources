@@ -1,6 +1,4 @@
-# Resources for Front-end Developers
-
-# Awesome Frontend
+# Resources for Frontend Developers
 
 ### CSS
 
