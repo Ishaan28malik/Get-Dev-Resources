@@ -2,9 +2,6 @@
 
 # Machine Learning / Artifical Intelligence
 
-- [Tools](#tools)
-- [Courses](#courses)
-- [Blogs](#blogs)
 
 ## Tools
 - [Tensorflow](https://github.com/tensorflow/tensorflow)
