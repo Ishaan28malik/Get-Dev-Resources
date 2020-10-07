@@ -28,6 +28,8 @@
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
+- [Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Design%20Courses) An online learning platform with over 13,000 courses taught by real-world experts and a library that is constantly up to date.
+- [Pluralsight](https://www.pluralsight.com/search?q=Design%20Courses)
 
 ## Books
 
