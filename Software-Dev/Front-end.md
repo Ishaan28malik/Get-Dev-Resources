@@ -194,6 +194,7 @@
 - [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 - [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 - [pug](https://pugjs.org/api/getting-started.html) - Haml-inspired template engine (formerly Jade)
+- [ejs](https://ejs.co/) - EJS is a simple templating language that lets you generate HTML markup with plain JavaScript.
 
 ### Carousel
 
