@@ -33,6 +33,7 @@
 - [Google Colors](https://material.io/guidelines/style/color.html) The Material Design color system can be used to create a color theme that reflects your brand or style.
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
+- [Colorhunt](https://colorhunt.co/) is a free palette picking tool, and contains a lot of amazing palettes for daily use cases.
 
 ## Icon and Logo
 
@@ -76,6 +77,7 @@
 - [ICONO](http://saeedalipoor.github.io/icono/) pure css icons, with only one element.
 - [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 - [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
+- [Iconscout](https://iconscout.com/) is a platform with a ton of free and paid icons, illustrations and pictures for your designs. The platform also comes as plugins for a lot of design softwares.
 
 ## Typography
 
