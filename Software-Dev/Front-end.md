@@ -194,6 +194,8 @@
 
 - [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 - [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
+- [pug](https://pugjs.org/api/getting-started.html) - Haml-inspired template engine (formerly Jade)
+- [ejs](https://ejs.co/) - EJS is a simple templating language that lets you generate HTML markup with plain JavaScript.
 
 ### Carousel
 
@@ -229,6 +231,7 @@
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## Newsletters 
 
