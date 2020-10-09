@@ -4,3 +4,10 @@
 </div>
 
 ## Good PRs that solve any of the existing issues or upcoming issues and helps in improving the Repo quality and not quantity are welcome.
+
+### Contributions by
+#### Name: Mayukh Sil
+
+**Github:** @mayukhsil
+
+**Quote:** *My Code is just like me fat and efficient!*
