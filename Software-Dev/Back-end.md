@@ -74,3 +74,6 @@
 ## Ruby
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 - [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
+
+## Documentations
+- [Read Documentations offline](https://devdocs.io/)

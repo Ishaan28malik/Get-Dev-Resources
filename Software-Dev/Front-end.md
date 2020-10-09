@@ -269,6 +269,7 @@
 - [Learn CSS Layout](http://learnlayout.com/)
 - [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Read Documentations offline](https://devdocs.io/)
 
 ## Newsletters 
 
