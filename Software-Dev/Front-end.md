@@ -20,6 +20,7 @@
 - [Milligram](https://github.com/milligram/milligram) - Milligram provides a minimal setup of styles for a fast and clean starting point.
 - [Foundation](https://github.com/foundation/foundation-sites) - Foundation is the most advanced responsive front-end framework in the world. Quickly go from prototype to production, building sites or apps that work on any kind of device with Foundation.
 - [Tailwind](https://tailwindcss.com/) - Tailwind CSS is highly customizable, low-level CSS Framework to build bespoke designs.
+- [Antd](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Vanila](https://vanillacss.com/) - Vanilla CSS is a minimal baseline stylesheet for any web project. It includes a basic reset and default styling for all HTML5 elements.
 - [Bourborn](http://bourbon.io/) - Bourbon is a lightweight Sass tool set.
 
@@ -37,6 +38,8 @@
 - [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown.
 - [filter.css](https://github.com/simurai/filter.css) - A collection of CSS filter combos.
 - [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+- [loading.io](https://loading.io/) - Ajax Loader, Animated Icons, Live Background in GIF / SVG / APNG / CSS !
+
 
 ### Icon Fonts
 
@@ -86,6 +89,7 @@
 
 ### SVG Icons
 
+- [Undraw.co](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 - [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons.
 - [eva-icons](https://github.com/akveo/eva-icons/) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
