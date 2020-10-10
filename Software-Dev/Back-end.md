@@ -67,7 +67,7 @@
 - [Phalcon](https://github.com/phalcon/awesome-phalcon)
 
 ## Python
-- [Django](https://github.com/rosarior/awesome-django)
+- [Django](https://github.com/wsvincent/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Pyramid](https://github.com/uralbash/awesome-pyramid) 
 
