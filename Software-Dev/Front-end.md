@@ -31,6 +31,7 @@
 - [Animate.css](http://daneden.github.io/animate.css) - A cross-browser library of CSS animations.
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
 - [Animation Menus](http://freefrontend.com/css-menu/) - Collection of HTML and CSS menu with little JavaScript: accordion, circular, dropdown, fullscreen, horizontal, mobile, off-canvas, side, toggle and sliding.
+- [Lottie Files](https://lottiefiles.com/) Best animations in seconds.
 
 ### CSS Misc
 
