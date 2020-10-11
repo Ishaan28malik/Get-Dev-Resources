@@ -47,6 +47,7 @@
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [Designing Next Gen Web Projects] (https://www.amazon.in/Designing-Next-Generation-Projects-CSS3/dp/1849693269/ref=sr_1_36?dchild=1&keywords=Web+Designing+Books&qid=1602420729&sr=8-36)
 
 ## Podcast
 
