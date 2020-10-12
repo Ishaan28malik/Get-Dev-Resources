@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GET-DEV-Resources</title>
+    <link>http://example.org/resources/Software-Testing.md/</link>
+    <description>Recent content on GET-DEV-Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/resources/Software-Testing.md/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/resources/Software-Testing.md/No-code-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/Software-Testing.md/No-code-tools/</guid>
+      <description>All the tools for UI and Software Testing that requires no-Code Books  The Scrum Field Guide, Agile advice for your first year and beyond - Why you might want to move your company to Agile and great practical advice on how to do it. Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/resources/Software-Testing.md/Testing-with-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/Software-Testing.md/Testing-with-code/</guid>
+      <description>UI libraries or other testing libraries used by developers  python test automation java test automation ruby test automation c# test automation php test automation javascript test automation kotlin test automation test automation and software testing as services mobile, tablet and tv test automation general purpose test automation tools practical test automation by examples  </description>
+    </item>
+    
+  </channel>
+</rss>

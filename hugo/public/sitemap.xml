@@ -3,7 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/resources/Software-Testing/</loc>
+    <loc>http://example.org/resources/Data-Science/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Data-Science/Artificial-Intelligence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Data-Science/Machine-Learning-Resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Designer-Resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Designer-Resources/Design-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Designer-Resources/Designer-main/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Hacker-resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Hacker-resources/Hacking-Tools/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Software-Dev/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Software-Dev/Back-end/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Software-Dev/Front-end/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Software-Testing.md/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Software-Testing.md/No-code-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/Software-Testing.md/Testing-with-code/</loc>
   </url>
   
   <url>

@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Design Tools">
+
+<title>Design Tools | GET-DEV-Resources</title>
+
+<link rel="icon" href="/favicon/favicon-32x32.png" type="image/x-icon">
+
+<link rel="preload" as="font" href="/fonts/Metropolis.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/LiberationSans.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/LiberationSans-Bold.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/LiberationSans-BoldItalic.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/LiberationSans-Italic.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/LiberationMono.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/DroidSans.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/fonts/GeekdocIcons.woff2" type="font/woff2" crossorigin="anonymous">
+
+<link rel="preload" href="/main.min.css" as="style">
+<link rel="stylesheet" href="/main.min.css" media="screen">
+
+<link rel="preload" href="/custom.css" as="style">
+<link rel="stylesheet" href="/custom.css" media="screen">
+
+<!--Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc-->
+
+</head>
+
+<body>
+    <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 24 24" id="arrow_back" xmlns="http://www.w3.org/2000/svg"><path d="M20.016 11.016v1.969H7.828l5.578 5.625L12 20.016 3.984 12 12 3.984l1.406 1.406-5.578 5.625h12.188z"/></symbol><symbol viewBox="0 0 24 24" id="arrow_left_alt" xmlns="http://www.w3.org/2000/svg"><path d="M7.969 11.016v-3L3.985 12l3.984 3.984v-3h12.047v-1.969H7.969z"/></symbol><symbol viewBox="0 0 24 24" id="arrow_right_alt" xmlns="http://www.w3.org/2000/svg"><path d="M16.031 11.016v-3L20.015 12l-3.984 3.984v-3H3.984v-1.969h12.047z"/></symbol><symbol viewBox="0 0 24 24" id="bookmark" xmlns="http://www.w3.org/2000/svg"><path d="M15 5.016q.797 0 1.406.586t.609 1.383v16.031l-7.031-3-6.984 3V6.985q0-.797.609-1.383t1.406-.586h9.984zM18.984 18V5.016q0-.797-.586-1.406t-1.383-.609H6.984q0-.797.609-1.406T8.999.986h9.984q.797 0 1.406.609t.609 1.406v15.984z"/></symbol><symbol viewBox="0 0 16 28" id="code" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 23a1.5 1.5 0 10-3.001.001A1.5 1.5 0 004.5 23zm0-18a1.5 1.5 0 10-3.001.001A1.5 1.5 0 004.5 5zm10 2a1.5 1.5 0 10-3.001.001A1.5 1.5 0 0014.5 7zM16 7a3.002 3.002 0 01-1.5 2.594c-.047 5.641-4.047 6.891-6.703 7.734C5.313 18.109 4.5 18.484 4.5 20v.406A3 3 0 016 23a3.001 3.001 0 01-6 0c0-1.109.609-2.078 1.5-2.594V7.594A3 3 0 010 5a3.001 3.001 0 016 0 3.002 3.002 0 01-1.5 2.594v7.766c.797-.391 1.641-.656 2.406-.891 2.906-.922 4.562-1.609 4.594-4.875A3 3 0 0110 7a3.001 3.001 0 016 0z"/></symbol><symbol viewBox="0 0 24 24" id="date" xmlns="http://www.w3.org/2000/svg"><path d="M18.984 20.016V9H5.015v11.016h13.969zm0-16.032q.797 0 1.406.609t.609 1.406v14.016q0 .797-.609 1.383t-1.406.586H5.015q-.844 0-1.43-.563t-.586-1.406V5.999q0-.797.586-1.406t1.43-.609h.984V2.015h2.016v1.969h7.969V2.015H18v1.969h.984zm-1.968 7.032v1.969H15v-1.969h2.016zm-4.032 0v1.969h-1.969v-1.969h1.969zm-3.984 0v1.969H6.984v-1.969H9z"/></symbol><symbol viewBox="0 0 24 24" id="download" xmlns="http://www.w3.org/2000/svg"><path d="M5.016 18h13.969v2.016H5.016V18zm13.968-9L12 15.984 5.016 9H9V3h6v6h3.984z"/></symbol><symbol viewBox="0 0 24 24" id="email" xmlns="http://www.w3.org/2000/svg"><path d="M20.016 8.016V6L12 11.016 3.984 6v2.016L12 12.985zm0-4.032q.797 0 1.383.609t.586 1.406v12q0 .797-.586 1.406t-1.383.609H3.985q-.797 0-1.383-.609t-.586-1.406v-12q0-.797.586-1.406t1.383-.609h16.031z"/></symbol><symbol viewBox="0 0 24 28" id="github" xmlns="http://www.w3.org/2000/svg"><path d="M12 2c6.625 0 12 5.375 12 12 0 5.297-3.437 9.797-8.203 11.391-.609.109-.828-.266-.828-.578 0-.391.016-1.687.016-3.297 0-1.125-.375-1.844-.812-2.219 2.672-.297 5.484-1.313 5.484-5.922 0-1.313-.469-2.375-1.234-3.219.125-.313.531-1.531-.125-3.187-1-.313-3.297 1.234-3.297 1.234a11.28 11.28 0 00-6 0S6.704 6.656 5.704 6.969c-.656 1.656-.25 2.875-.125 3.187-.766.844-1.234 1.906-1.234 3.219 0 4.594 2.797 5.625 5.469 5.922-.344.313-.656.844-.766 1.609-.688.313-2.438.844-3.484-1-.656-1.141-1.844-1.234-1.844-1.234-1.172-.016-.078.734-.078.734.781.359 1.328 1.75 1.328 1.75.703 2.141 4.047 1.422 4.047 1.422 0 1 .016 1.937.016 2.234 0 .313-.219.688-.828.578C3.439 23.796.002 19.296.002 13.999c0-6.625 5.375-12 12-12zM4.547 19.234c.031-.063-.016-.141-.109-.187-.094-.031-.172-.016-.203.031-.031.063.016.141.109.187.078.047.172.031.203-.031zm.484.532c.063-.047.047-.156-.031-.25-.078-.078-.187-.109-.25-.047-.063.047-.047.156.031.25.078.078.187.109.25.047zm.469.703c.078-.063.078-.187 0-.297-.063-.109-.187-.156-.266-.094-.078.047-.078.172 0 .281s.203.156.266.109zm.656.656c.063-.063.031-.203-.063-.297-.109-.109-.25-.125-.313-.047-.078.063-.047.203.063.297.109.109.25.125.313.047zm.891.391c.031-.094-.063-.203-.203-.25-.125-.031-.266.016-.297.109s.063.203.203.234c.125.047.266 0 .297-.094zm.984.078c0-.109-.125-.187-.266-.172-.141 0-.25.078-.25.172 0 .109.109.187.266.172.141 0 .25-.078.25-.172zm.906-.156c-.016-.094-.141-.156-.281-.141-.141.031-.234.125-.219.234.016.094.141.156.281.125s.234-.125.219-.219z"/></symbol><symbol viewBox="0 0 28 28" id="heart" xmlns="http://www.w3.org/2000/svg"><path d="M14 26c-.25 0-.5-.094-.688-.281l-9.75-9.406c-.125-.109-3.563-3.25-3.563-7C-.001 4.735 2.796 2 7.468 2c2.734 0 5.297 2.156 6.531 3.375C15.233 4.156 17.796 2 20.53 2c4.672 0 7.469 2.734 7.469 7.313 0 3.75-3.437 6.891-3.578 7.031l-9.734 9.375a.972.972 0 01-.688.281z"/></symbol><symbol viewBox="0 0 24 24" id="link" xmlns="http://www.w3.org/2000/svg"><path d="M17.016 6.984q2.063 0 3.516 1.477T21.985 12t-1.453 3.539-3.516 1.477h-4.031v-1.922h4.031q1.266 0 2.18-.914T20.11 12t-.914-2.18-2.18-.914h-4.031V6.984h4.031zm-9 6v-1.969h7.969v1.969H8.016zM3.891 12q0 1.266.914 2.18t2.18.914h4.031v1.922H6.985q-2.063 0-3.516-1.477T2.016 12t1.453-3.539 3.516-1.477h4.031v1.922H6.985q-1.266 0-2.18.914T3.891 12z"/></symbol><symbol viewBox="0 0 24 24" id="menu" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2.016H3V6zm0 6.984v-1.969h18v1.969H3zM3 18v-2.016h18V18H3z"/></symbol><symbol viewBox="0 0 24 24" id="notification" xmlns="http://www.w3.org/2000/svg"><path d="M18 15.984L20.016 18v.984H3.985V18l2.016-2.016v-4.969q0-2.344 1.195-4.078t3.305-2.25v-.703q0-.609.422-1.055t1.078-.445 1.078.445.422 1.055v.703q2.109.516 3.305 2.25t1.195 4.078v4.969zm-6 6q-.844 0-1.43-.563t-.586-1.406h4.031q0 .797-.609 1.383T12 21.984z"/></symbol><symbol viewBox="0 0 24 24" id="path" xmlns="http://www.w3.org/2000/svg"><path d="M21.984 11.016H15v-3h-2.016v7.969H15v-3h6.984v8.016H15v-3h-3.984V8.017H9v3H2.016V3.001H9v3h6v-3h6.984v8.016z"/></symbol><symbol viewBox="0 0 24 24" id="person" xmlns="http://www.w3.org/2000/svg"><path d="M12 14.016q2.531 0 5.273 1.102t2.742 2.883v2.016H3.984v-2.016q0-1.781 2.742-2.883t5.273-1.102zM12 12q-1.641 0-2.813-1.172T8.015 8.015t1.172-2.836T12 3.984t2.813 1.195 1.172 2.836-1.172 2.813T12 12z"/></symbol><symbol viewBox="0 0 24 24" id="search" xmlns="http://www.w3.org/2000/svg"><path d="M9.516 14.016q1.875 0 3.188-1.313t1.313-3.188-1.313-3.188-3.188-1.313-3.188 1.313-1.313 3.188 1.313 3.188 3.188 1.313zm6 0l4.969 4.969-1.5 1.5-4.969-4.969v-.797l-.281-.281q-1.781 1.547-4.219 1.547-2.719 0-4.617-1.875T3.001 9.516t1.898-4.617 4.617-1.898 4.594 1.898 1.875 4.617q0 .984-.469 2.227t-1.078 1.992l.281.281h.797z"/></symbol><symbol viewBox="0 0 20 28" id="shield" xmlns="http://www.w3.org/2000/svg"><path d="M17 15V5h-7v17.766c.797-.422 2.078-1.156 3.328-2.141C15 19.312 17 17.266 17 15zm3-12v12c0 6.578-9.203 10.734-9.594 10.906-.125.063-.266.094-.406.094s-.281-.031-.406-.094C9.203 25.734 0 21.578 0 15V3c0-.547.453-1 1-1h18c.547 0 1 .453 1 1z"/></symbol><symbol viewBox="0 0 32 32" id="tags" xmlns="http://www.w3.org/2000/svg"><path d="M5 5c-1.104 0-2 .887-2 2v8l13.381 13.381c.716.716 1.838.78 2.62.191L5 14.5V5.007 5zm11-1l13.381 13.381c.783.783.787 2.051.008 2.831l-7.177 7.177a2.003 2.003 0 01-2.831-.008L6 14V6c0-1.112.895-2 2-2h8zm-4.5 7a1.5 1.5 0 10-.001-3.001A1.5 1.5 0 0011.5 11z"/></symbol><symbol viewBox="0 0 35 32" id="telescope" xmlns="http://www.w3.org/2000/svg"><path d="M27.464 2.314a.501.501 0 00-.698-.257L14.86 8.339a.499.499 0 00-.233.621l.245.641-6.873 3.769a.5.5 0 00-.222.63l.228.549-7.299 3.488a.5.5 0 00-.246.643l1.498 3.61a.5.5 0 00.629.28l7.625-2.701.228.549a.5.5 0 00.601.289l7.276-2.097.218.569a.497.497 0 00.612.299l13-4a.498.498 0 00.317-.663l-5-12.501zM2.7 21.469l-1.134-2.734 6.823-3.261 1.439 3.47L2.7 21.469zm8.491-1.846l-.238-.574-1.843-4.445-.238-.573 6.336-3.475 2.374 6.134.375.981-6.766 1.952zm8.109-1.238l-.203-.531c-.003-.011-.001-.024-.006-.035l-.618-1.597-2.754-7.206 11.023-5.815 4.592 11.48L19.3 18.385zM28.964.314a.5.5 0 00-.929.371l6 15a.502.502 0 00.651.279.501.501 0 00.279-.65l-6.001-15zM18 21h-3c-1.14 0-2 .86-2 2v1.315l-5.879 6.859a.5.5 0 10.758.651L13.73 25H16v6.5a.5.5 0 001 0V25h2.27l5.85 6.825a.497.497 0 00.705.054.5.5 0 00.054-.705L20 24.315v-1.24C20 21.912 19.122 21 18 21zm1 3h-5v-1c0-.589.411-1 1-1h3c.57 0 1 .462 1 1.075V24z"/></symbol></svg>
+
+    <div class="wrapper">
+        <input type="checkbox" class="hidden" id="menu-control" />
+        <header class="gdoc-header">
+    <div class="container flex align-center justify-between">
+        
+        <label for="menu-control" class="gdoc-nav__control">
+            <svg class="icon menu"><use xlink:href="#menu"></use></svg>
+            <svg class="icon arrow-back"><use xlink:href="#arrow_back"></use></svg>
+        </label>
+        
+        <a class="gdoc-header__link" href="http://example.org/">
+            <span class="gdoc-brand flex align-center">
+                <img class="gdoc-brand__img" src="/brand.svg" alt="GET-DEV-Resources" width=38 height=38>
+                GET-DEV-Resources
+            </span>
+        </a>
+    </div>
+</header>
+
+
+        <main class="container flex flex-even">
+            <aside class="gdoc-nav">
+                <nav>
+    
+    <div class="gdoc-search">
+        <svg class="icon search"><use xlink:href="#search"></use></svg>
+        <input type="text" id="gdoc-search-input" class="gdoc-search__input" placeholder="Search..."
+            aria-label="Search" maxlength="64" />
+        <div class="gdoc-search__spinner spinner hidden"></div>
+        <ul id="gdoc-search-results" class="gdoc-search__list"></ul>
+    </div>
+
+
+
+    <section class="gdoc-nav--main">
+        <h2>Navigation</h2>
+        
+            
+
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">Resources</span>
+            
+
+            
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">Data Science</span>
+            
+
+            
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Data-Science/Artificial-Intelligence/" class="gdoc-nav__entry ">
+                        Artificial Intelligence
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Data-Science/Machine-Learning-Resources/" class="gdoc-nav__entry ">
+                        Machine Learning Resources
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">Designer Resources</span>
+            
+
+            
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Designer-Resources/Design-tools/" class="gdoc-nav__entry is-active">
+                        Design Tools
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Designer-Resources/Designer-main/" class="gdoc-nav__entry ">
+                        Designer Main
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">Hacker Resources</span>
+            
+
+            
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Hacker-resources/Hacking-Tools/" class="gdoc-nav__entry ">
+                        Hacking Tools
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">Software Dev</span>
+            
+
+            
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Software-Dev/Back-end/" class="gdoc-nav__entry ">
+                        Back End
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Software-Dev/Front-end/" class="gdoc-nav__entry ">
+                        Front End
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">Software Testing.md</span>
+            
+
+            
+            
+                
+    
+
+    <ul class="gdoc-nav__list">
+        
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Software-Testing.md/No-code-tools/" class="gdoc-nav__entry ">
+                        No Code Tools
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+            
+            <li>
+            
+                <span class="flex">
+                    <a href="/resources/Software-Testing.md/Testing-with-code/" class="gdoc-nav__entry ">
+                        Testing With Code
+                    </a>
+                </span>
+            
+
+            
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
+        
+    </ul>
+
+            
+            </li>
+            
+            
+        
+    </ul>
+
+
+
+
+
+        
+    </section>
+
+    <section class="gdoc-nav--more">
+        
+    </section>
+</nav>
+
+            </aside>
+
+            <div class="gdoc-page">
+                
+    
+
+
+    
+
+
+
+
+
+
+<div class="gdoc-page__header flex flex-wrap justify-between hidden-mobile" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <span>
+        
+            <span class="breadcrumb">
+                <svg class="icon path"><use xlink:href="#path"></use></svg>
+                
+                
+    
+    
+        
+        
+        
+    
+    
+        
+        
+        
+    
+    
+        
+        
+        
+    
+    
+        <a href='/'>GET DEV RESOURCES</a> / <a href='/resources/'>Resources</a> / <a href='/resources/Designer-Resources/'>Designer Resources</a> / Design Tools
+    
+
+    
+
+    
+
+    
+
+            </span>
+        
+    </span>
+    <span>
+        
+    </span>
+</div>
+
+
+    <article class="gdoc-markdown">
+        <h1>Design Tools</h1>
+        
+
+
+
+    
+
+
+<h1 id="best-designer-resources">Best Designer resources</h1>
+<div class="gdoc-page__anchorwrap"><h2 id="color">Color<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#color" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Color" href="#color"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="https://coolors.co/">Coolors</a> The super fast color schemes generator!</li>
+<li><a href="https://color.hailpixel.com/">Colordot</a></li>
+<li><a href="https://brandcolors.net/">Brand Colors</a> The biggest collection of official brand color codes around.</li>
+<li><a href="https://www.materialpalette.com/">Material Design Palette</a></li>
+<li><a href="http://www.flatuicolorpicker.com/">Flat UI Color Picker</a></li>
+<li><a href="https://www.webdesignrankings.com/resources/lolcolors/">LOL COLORS</a> Curated color palette inspiration.</li>
+<li><a href="http://www.thedayscolor.com/">The Day&rsquo;s Color</a> is to find colorful inspiration from things that surround us. Daily.</li>
+<li><a href="http://colorclaim.tumblr.com/">Color Claim</a></li>
+<li><a href="http://colorhunt.co/">Color Hunt</a> is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.</li>
+<li><a href="http://colours.neilorangepeel.com/">CSS Colours Name</a></li>
+<li><a href="http://rgb.to/">rgb.to</a></li>
+<li><a href="http://www.colourco.de/">Color Code</a></li>
+<li><a href="http://www.webpagefx.com/web-design/hex-to-rgb/">Colorrrs</a></li>
+<li><a href="http://nipponcolors.com/">Nippon Colors</a></li>
+<li><a href="https://alexbeals.com/projects/colorize/">Colorize</a> is a website that turns any word or phrase into a hex color.</li>
+<li><a href="http://jxnblk.com/hello-color/">Hello Color</a></li>
+<li><a href="http://webcolourdata.com/">Web Color Data</a> aims to uncover some insights about colours on the web, in particular, some questions I&rsquo;ve struggled with as a designer.</li>
+<li><a href="http://www.colorlisa.com/">Color Lisa</a> is a curated list of color palettes based on masterpieces of the worlds greatest artists.</li>
+<li><a href="https://colordrop.io/">ColorDrop</a></li>
+<li><a href="http://www.colorfavs.com/">colorfavs</a> a place that made it easy to create and discover new colors and palettes for all of your projects.</li>
+<li><a href="https://uigradients.com/">uiGradients</a></li>
+<li><a href="http://swisscolors.net/">swiss style color picker</a></li>
+<li><a href="http://htmlcolorcodes.com/">HTML Color Codes</a> Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.</li>
+<li><a href="http://palettr.com/">palettr</a> is a web tool for designers.</li>
+<li><a href="http://paletton.com/">Paletton</a></li>
+<li><a href="http://www.palettable.io/">Palettable</a> Generate beautiful color palettes using the knowledge of millions of designers.</li>
+<li><a href="https://picular.co/">Picular</a></li>
+<li><a href="http://jxnblk.com/colorable/demos/text/?background=%23FFFFFF&amp;foreground=%23000000">Colorable</a> Get contrast values for every color combination with pass/fail scores for the WCAG accessibility guidelines.</li>
+<li><a href="https://material.io/guidelines/style/color.html">Google Colors</a> The Material Design color system can be used to create a color theme that reflects your brand or style.</li>
+<li><a href="https://webgradients.com/">WebGradients</a> Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.</li>
+<li><a href="http://zhongguose.com">Chinese Colors</a> is a collection of Chinese traditional colors.</li>
+<li><a href="https://colorhunt.co/">Colorhunt</a> is a free palette picking tool, and contains a lot of amazing palettes for daily use cases.</li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="icon-and-logo">Icon and Logo<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#icon-and-logo" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Icon and Logo" href="#icon-and-logo"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="http://macosicongallery.com/">macOS Icon Gallery</a></li>
+<li><a href="https://icon54.com">icon54</a></li>
+<li><a href="https://icons8.com/">icons8</a></li>
+<li><a href="https://www.iconfinder.com/">Iconfinder</a> provides high-quality icons to millions of creative professionals.</li>
+<li><a href="http://icondock.com/">icon dock</a></li>
+<li><a href="https://genericons.com/">Genericons Neue</a> generic looking icons, suitable for a blog or simple website.</li>
+<li><a href="http://flaticons.net/">FlatIcons.net</a> is a free flat icon maker.</li>
+<li><a href="http://www.flaticon.com/">FLATICON</a></li>
+<li><a href="http://evil-icons.io/">Evil Icons</a> Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.</li>
+<li><a href="http://typicons.com/">Typeicons</a> are free-to-use vector icons embedded in a webfont for easy use in any UI, whether it be on the web or in a native app.</li>
+<li><a href="https://thenounproject.com/">The Noun Project</a></li>
+<li><a href="https://nucleoapp.com/">Nucleoapp</a> is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons.</li>
+<li><a href="https://picons.me/">Picons</a> Vector Icons for iOS, Android, Websites &amp; Apps. Icons designed to perfection.</li>
+<li><a href="http://pictos.cc/">Pictos</a> is back once again with Redux: all new carefully crafted interface icons. Each icon in Redux has three variations: Line, Solid &amp; Color.</li>
+<li><a href="https://smashicons.com/">Smashicons</a> is the largest and most distinct Icon Pack in the World. Smashicons offers the simplest, effortless way to use icons.</li>
+<li><a href="https://symbolset.com/icons">Symbolset</a></li>
+<li><a href="http://logofaves.com/">logofaves</a></li>
+<li><a href="http://logooftheday.com/">Logo of the day</a></li>
+<li><a href="https://www.logomoose.com/">LogoMoose</a> is a logo inspiration and design community showcasing logos submitted by professional logo designers.</li>
+<li><a href="http://logospire.com/">Logospire</a> is a logo inspiration gallery.</li>
+<li><a href="http://thesquid.ink">Squid.ink</a></li>
+<li><a href="http://game-icons.net/">Game Icons</a></li>
+<li><a href="http://svgicons.sparkk.fr/">svgicons.sparkk.fr</a></li>
+<li><a href="https://materialdesignicons.com/">Material Design Icons</a></li>
+<li><a href="http://zavoloklom.github.io/material-design-iconic-font/index.html">Material Design Iconic Font</a> is a full suite of material design icons (created and maintained by Google) with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.</li>
+<li><a href="http://danklammer.com/bytesize-icons/">Bytesize</a> is a tiny style-controlled SVG iconset.</li>
+<li><a href="http://www.webalys.com/nova/index.html">NOVA Material Design Icons</a> 4,000 vector icons provided in two styles: Line and Solid.</li>
+<li><a href="https://freeiconshop.com/">Free Icon Shop</a> is a large collection of beautiful free icons in vector formats. All icons are commercially free to use. Download free icons in PNG, SVG, Ai or PSD formats.</li>
+<li><a href="https://simpleicons.org/">Simple Icons</a> Free SVG icons for popular brands.</li>
+<li><a href="https://iconmonstr.com/">iconmonstr</a> Free, monstrously big and continuously growing source of simple icons run by one creator.</li>
+<li><a href="https://octicons.github.com/">Octions</a> GitHub&rsquo;s icons.</li>
+<li><a href="http://weloveiconfonts.com/">We Love Icon Fonts</a></li>
+<li><a href="https://iconstore.co/">IconStore</a> Free icons by first-class designers.</li>
+<li><a href="https://design.google.com/icons/">Google Material Icons</a> Material icons are delightful, beautifully crafted symbols for common actions and items. 🌟</li>
+<li><a href="https://paymentfont.com/">PaymentFont</a> is a sleek webfont for your favourite payment operators and methods. Featuring 116 icons. 🌟</li>
+<li><a href="http://fontawesome.io/">Font Awesome</a> Get vector icons and social logos on your website with Font Awesome, the web&rsquo;s most popular icon set and toolkit. 🌟</li>
+<li><a href="https://icomoon.io/">IconMoon</a> Pixel perfect icon solutions.</li>
+<li><a href="http://saeedalipoor.github.io/icono/">ICONO</a> pure css icons, with only one element.</li>
+<li><a href="http://leungwensen.github.io/svg-icon/">svg-icon</a> is an ultimate SVG icons collection done right.</li>
+<li><a href="http://www.iconfont.cn/">Iconfont+</a> 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。</li>
+<li><a href="https://iconscout.com/">Iconscout</a> is a platform with a ton of free and paid icons, illustrations and pictures for your designs. The platform also comes as plugins for a lot of design softwares.</li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="typography">Typography<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#typography" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Typography" href="#typography"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="https://www.typography.com/">typography</a></li>
+<li><a href="http://ilovetypography.com/">i love typography</a> was born on August 7, 2007. It exists because I have a passion for typography, type design, and lettering, and for the pages, words, and letters born of those disciplines.</li>
+<li><a href="https://www.typeisbeautiful.com/">Type is Beautiful</a> 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。</li>
+<li><a href="http://practicaltypography.com/">Butterick&rsquo;s Practical Typography</a></li>
+<li><a href="https://www.fonts.com/">Fonts</a> store from Monotype offers more than 150,000 desktop and Web font products for you to preview, purchase and download. You can also learn about new typeface releases and discover typographic tips and techniques.</li>
+<li><a href="https://www.fontsquirrel.com/">Font Squirrel</a> 100% free for commercial use.</li>
+<li><a href="https://www.typewolf.com/">Typewolf</a> what’s trending in type.</li>
+<li><a href="http://typenovel.tumblr.com/">Type Novel</a></li>
+<li><a href="https://fontsinuse.com/">Fonts In Use</a> is a public archive of typography indexed by typeface, format, industry, and period.</li>
+<li><a href="https://www.webtype.com/">Webtype</a> provides high-end fonts for online typography.</li>
+<li><a href="http://www.myfonts.com/">My Fonts</a></li>
+<li><a href="https://www.thedesignersfoundry.com/">The Designers Foundry</a></li>
+<li><a href="https://fonts.adobe.com/fonts">Adobe Fonts</a> Enjoy quick browsing, easy use in desktop applications or on the web, and endless typographic inspiration.</li>
+<li><a href="https://fonts.google.com/">Google Fonts</a></li>
+<li><a href="https://femmebot.github.io/google-type/">Google Font Combinations</a></li>
+<li><a href="http://blog.justfont.com/">justfont</a> 是新世代字型設計暨推廣教育團隊，致力於培育台灣下一代的設計力量。</li>
+<li><a href="http://katydecorah.com/font-library/">Font Library</a></li>
+<li><a href="http://www.typogui.de/">Type Guide</a> A Pocket Guide to Master Every Day’s Typographic Adventures.</li>
+<li><a href="https://wordmark.it/">workmark</a></li>
+<li><a href="http://fontfling.com/">fontfling</a></li>
+<li><a href="http://www.glyphrstudio.com/online/">Glyphr Studio</a></li>
+<li><a href="http://www.losttype.com/browse/">Lost Type</a> is a collaborative digital type foundry.</li>
+<li><a href="http://brick.im/">Brick</a></li>
+<li><a href="https://vllg.com/">Village</a></li>
+<li><a href="https://klim.co.nz/">Klim</a></li>
+<li><a href="https://www.milieugrotesque.com/">Milieu Grotesque</a> is an independent type foundry, offering an exclusive library of digital typefaces and related products.</li>
+<li><a href="https://lineto.com/">Lineto</a></li>
+<li><a href="https://www.colophon-foundry.org/">Colophon</a> is an international, award-winning type foundry based in London (UK) and Los Angeles (US).</li>
+<li><a href="https://www.t26.com/">T26</a></li>
+<li><a href="https://typ.io">Typ.io</a> at Typ.io, we&rsquo;re revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they&rsquo;re using and how they&rsquo;re using them.</li>
+<li><a href="https://www.typenetwork.com/">TypeNetwork</a></li>
+<li><a href="https://www.theleagueofmoveabletype.com/">The League of Moveable Type</a></li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="toolkit">Toolkit<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#toolkit" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Toolkit" href="#toolkit"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="https://www.sketchapp.com/">Sketch</a> is a platform to empower designers to share and collaborate on their designs and work better, together. <a href="http://developer.sketchapp.com/">Developer</a>, <a href="https://www.sketchappsources.com/">Sketch App Sources</a>, <a href="https://sketchrepo.com/">Sketch Repo</a>, <a href="https://github.com/sketchplugins/plugin-directory">Sketch Plugins</a>, <a href="https://www.sketchcasts.net/">Sketchcasts</a>, <a href="http://sketch.im/">Sketch.im</a>.🌟</li>
+<li><a href="http://www.adobe.com/products/photoshop.html">Adobe Photoshop</a> Best imaging and design app is at the core of almost every creative project. <a href="https://psdrepo.com/">PSD Repo</a>, <a href="https://psddd.co/">PSDDD</a>. 🌟</li>
+<li><a href="http://www.adobe.com/products/illustrator.html">Adobe Illustrator</a> The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟</li>
+<li><a href="http://www.adobe.com/products/aftereffects.html">Adobe After Effects</a> Bold new ways to put your ideas in motion. v</li>
+<li><a href="http://www.adobe.com/products/project-felix.html">Adobe Project Felix</a> A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.</li>
+<li><a href="https://www.adobe.com/products/xd.html">Adobe XD</a> Vector-based tool for designing and prototyping user experience for web and mobile apps. 🌟</li>
+<li><a href="https://zeplin.io/">Zeplin</a> Build pixel perfect apps in peace.</li>
+<li><a href="http://usepanda.com/">Panda</a> A smart news reader built for productivity, powered by integrations.</li>
+<li><a href="https://inboardapp.com/">INBOARD</a> Organize your inspiration.</li>
+<li><a href="http://sipapp.io/">Sip</a> The best way to collect, organize &amp; share your colors.</li>
+<li><a href="https://rightfontapp.com/">RightFont</a> The future of font manager software for Mac OS X.</li>
+<li><a href="https://www.dropbox.com/">Dropbox</a> Get to all your files from anywhere, on any device, and share them with anyone. 🌟</li>
+<li><a href="https://geticonjar.com/">Iconjar</a> Organize, search and use icons the easy way.</li>
+<li><a href="https://affinity.serif.com/en-gb/designer/">Affinity Designer</a> - Professional graphic design software for Mac.</li>
+<li><a href="https://inkscape.org/en/">Inkscape</a> Free vector graphics tool.</li>
+<li><a href="https://www.figma.com/">Figma</a> The first interface design tool with real-time collaboration. 🌟</li>
+<li><a href="https://www.gravit.io/">Gravit</a> End-to-end web-based design platform.</li>
+<li><a href="https://www.taskade.com/">Taskade</a> Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.</li>
+<li><a href="https://framer.com/">Framer X</a> Design tool for creating interactive designs, interfaces and animations.</li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="prototyping">Prototyping<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#prototyping" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Prototyping" href="#prototyping"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="https://marvelapp.com/">Marvel</a> Simple design, prototyping and collaboration.</li>
+<li><a href="https://www.invisionapp.com/">InVision</a> The world&rsquo;s leading prototyping, collaboration &amp; workflow platform.</li>
+<li><a href="http://origami.design/">Origami</a> Design Prototyping.</li>
+<li><a href="https://www.haiku.ai/">Haiku</a> Animation tool for UI components, ready for iOS, Android or Web Apps.</li>
+<li><a href="https://www.atomic.io/">Atomic</a> The prototyping tool designed for teams.</li>
+<li><a href="https://proto.io/">Proto.io</a> Prototypes that feel real.</li>
+<li><a href="https://www.justinmind.com/">Justinmind</a> Prototype Faster, Communicate Better.</li>
+<li><a href="http://principleformac.com/">Principle</a> Animate Your Ideas, Design Better Apps.</li>
+<li><a href="https://www.flinto.com/">Flinto</a> App prototyping tools for designers.</li>
+<li><a href="https://www.axure.com/">Axure</a> Design the right solution and align your team.</li>
+<li><a href="http://www.relativewave.com/form/">Form</a> Build and customize native prototypes directly on device.</li>
+<li><a href="https://bootstrapstudio.io/">Bootstrap Studio</a> A powerful desktop app for creating responsive websites using the Bootstrap framework.</li>
+<li><a href="http://www.adobe.com/products/experience-design.html">Adobe Experience Design</a> Design, prototype and quickly share user experiences.</li>
+<li><a href="https://www.uxpin.com/">UXPin</a> High fidelity animated prototypes created in minutes.</li>
+<li><a href="https://modao.cc/">MockingBot</a> Mobile prototyping tool without headache.</li>
+<li><a href="https://marvelapp.com/pop/?popref=1">POP</a> Transform pen and paper ideas into a real working prototype.</li>
+<li><a href="https://prottapp.com/">Prott</a> Prototyping tool for Web, iOS, Android apps.</li>
+<li><a href="https://bubble.io/">Bubble</a> It&rsquo;s a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code.</li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="user-testing">User Testing<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#user-testing" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor User Testing" href="#user-testing"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="https://lookback.io/">Lookback.io</a> Capture exactly how users experience your product: no guesswork required.</li>
+<li><a href="https://www.usertesting.com/">UserTesting</a> Get videos of real people speaking their thoughts as they use your website or mobile app. Go beyond analytics and understand why users do what they do.</li>
+<li><a href="https://userbrain.net/">UserBrain</a> Keep getting videos of real people testing your website, web app or prototype and make it ridiculously easy to use.</li>
+<li><a href="http://www.airsquirrels.com/reflector/">Reflector</a> Wireless mirroring and streaming receiver.</li>
+<li><a href="http://www.userzoom.co.uk/">User Zoom</a> All-in-One Agile UX Research Platform.</li>
+<li><a href="https://ethn.io/">Ethn.io</a> Remote user testing suite. Intercept real people for user research.</li>
+<li><a href="https://usabilla.com/">Usabilla</a> Customer feedback and survey tool.</li>
+<li><a href="https://usertest.io/">UserTest.io</a> Remote, easy and simple user testing.</li>
+<li><a href="https://validately.com/">Validately</a> Easy way to recruit testers, launch tests, and analyze results.</li>
+<li><a href="http://usersthink.com/">Users Think</a> Get user feedback from real people, on demand, when you need it.</li>
+<li><a href="https://www.crazyegg.com/">CrazyEgg</a> Heatmapping software.</li>
+<li><a href="https://www.hotjar.com/">HotJar</a> Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls &amp; surveys</li>
+<li><a href="https://www.inspectlet.com/">Inspectlet</a> Captures user actions and browsing, generates heatmaps, records with a realtime timeline</li>
+<li><a href="https://www.clicktale.com">Clicktale</a> is a user experience management platform.</li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="read-and-digest">Read and Digest<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#read-and-digest" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Read and Digest" href="#read-and-digest"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="http://design-milk.com/">Design Milk</a> is an online magazine dedicated to modern design, offers what’s new in art, architecture, interior design, furniture and decor, fashion and technology. 🌟</li>
+<li><a href="https://www.frogdesign.com/">frog</a> is a global Design, innovation and strategy firm.</li>
+<li><a href="http://danskdesigncenter.dk/">Danish Design Centre</a></li>
+<li><a href="https://design.google.com/">Google Design</a> is a cooperative effort led by a group of designers, writers, and developers at Google. 🌟</li>
+<li><a href="https://www.google.com/culturalinstitute/beta/">Google Art &amp; Culture</a>, explore collections and stories from around the world.</li>
+<li><a href="https://airbnb.design/">Airbnb Design</a> is a cross-disciplinary group of experience and production designers, researchers, technologists, writers and content strategists, graphic designers, filmmakers, producers, interior architects, project managers, photographers and more. 🌟</li>
+<li><a href="https://www.fastcodesign.com/">Fast.Co Design</a> is the world’s leading business media brand, with an editorial focus on innovation in technology, leadership, world changing ideas, creativity, and design. 🌟</li>
+<li><a href="https://www.smashingmagazine.com/">Smashing Magazine</a> founded in September 2006 in Germany, Smashing Magazine delivers reliable, useful, but most importantly practical articles to web designers and developers. 🌟</li>
+<li><a href="http://designtaxi.com/">Design Taxi</a></li>
+<li><a href="http://www.yankodesign.com/">Yanko Design</a></li>
+<li><a href="http://www.swiss-miss.com/">Swiss Miss</a> is a design blog/studio run by tina roth eisenberg.</li>
+<li><a href="http://uxmag.com/">UX Magazine</a> is a free community resource exploring all facets of experience design.</li>
+<li><a href="http://www.uxbooth.com/">UXBooth</a> is a publication by and for the user experience community.</li>
+<li><a href="https://www.ideo.com/">IDEO</a></li>
+<li><a href="https://designshack.net/">Design Shack</a> established in 2003, Design Shack is a magazine for creatives, designers, and developers.</li>
+<li><a href="http://www.booooooom.com/blog/design/">Booooooom</a> was launched in 2008 by Vancouver-based artist Jeff Hamada. It is Canada’s highest traffic art platform, and one of the largest on the Internet.</li>
+<li><a href="https://designmodo.com/inspiration/">designmodo</a> provides articles, tutorials and industry news about trends and techniques.</li>
+<li><a href="https://www.webdesignerdepot.com/">webdesignerdepot</a></li>
+<li><a href="http://uxmovement.com/">UX Movement</a> shows you which way gives the best user experience.</li>
+<li><a href="https://speckyboy.com/">Speckyboy</a> was launched with the intent of serving as an inspirational hub for web designers.</li>
+<li><a href="http://www.hugeinc.com/">HUGE</a></li>
+<li><a href="https://www.sitepoint.com/blog/">Sitepoint Blog</a></li>
+<li><a href="https://articles.uie.com/">UIE</a> helps people have the expertise they need to deliver better design.</li>
+<li><a href="http://attackthefront.com">Attack the Front</a></li>
+<li><a href="https://tympanus.net/codrops/">codrops</a> is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.</li>
+<li><a href="https://thegreatdiscontent.com/">The Great Discontent</a> is a print publication and online magazine featuring inspiring conversations with today’s artists, makers, and risk-takers.</li>
+<li><a href="http://underconsideration.com/">Underconsideration</a> are a graphic design firm generating it own projects, initiatives, and content while taking on limited client work.</li>
+<li><a href="http://littlebigdetails.com/">Little Big Details</a> is a curated collection of the finer details of design, updated every day.</li>
+<li><a href="http://wayswework.io/">WAYS WE WORK</a> is a digital publication focused on telling stories and getting first-hand accounts of how people do the work they love.</li>
+<li><a href="https://www.creativereview.co.uk/">Creative Review</a> has been bringing the creative community together since 1980.</li>
+<li><a href="http://creativeoverflow.net/">Creativeoverflow</a> is an online design magazine for anything creative.</li>
+<li><a href="http://www.fromupnorth.com/">FORM UP NORTH</a></li>
+<li><a href="http://facebook.design/">Facebook</a> is a facebook design blogs.</li>
+<li><a href="https://medium.com/facebook-design">Facebook Design on Medium</a> experiences from the people designing products billions of people use every day.</li>
+<li><a href="http://hackingui.com/">Hacking UI</a> is a community for designers, developers and creative entrepreneurs with a passion.</li>
+<li><a href="https://heydesign.com/">Hey Design</a></li>
+<li><a href="https://blog.pixelsquid.com/">PixelSquid Blog</a></li>
+<li><a href="http://www.logodesignlove.com/">LOGO DESIGN LOVE</a> is a website and book devoted to the design of logos and brand identities.</li>
+<li><a href="https://designm.ag/">DesignM.ag</a> is a community-based website for web designers and developers.</li>
+<li><a href="http://heydesigner.com/">HeyDesigner</a> daily curated design knowledge.</li>
+<li><a href="http://nicelydone.club/">Nicely Done</a> is a curation of the nicest digital products.</li>
+<li><a href="https://medium.com/dropbox-design">Dropbox Design on Medium</a> Stories and musings from the Dropbox Design team. 🌟</li>
+<li><a href="https://www.designernews.co/">Designer News</a> is a large, global community of people working in design and technology or those interested in the topics. 🌟</li>
+<li><a href="https://sidebar.io/">Sidebar</a> has been collecting the best links about UI design, typography, CSS, user research, and all other facets of design since 2012. 🌟</li>
+<li><a href="https://blog.codepen.io/">CodePen Blog</a> where CodePen post announcements, tips and tricks, new and updated features, fun roundups, new podcast episodes, and more.</li>
+<li><a href="http://www.webdesignernews.com/">Web Designer News</a> curated stories for designers. 🌟</li>
+<li><a href="https://www.uxofvr.com/">The UX for VR</a> is a curated list of resources to help you on your journey into the User Experience of Virtual Reality.</li>
+<li><a href="http://reeoo.com/">Reeoo</a> provides web design inspiration and gallery for web designers.</li>
+<li><a href="http://www.creativebloq.com/">CREATIVE BLOQ</a> delivers a daily mix of advice and inspiration for digital and traditional artists, web designers, graphic designers, 3D and VFX artists, illustrators, and more. 🌟</li>
+<li><a href="https://www.pond5.com/">Pond5</a></li>
+<li><a href="https://www.dexigner.com/">Dexigner</a></li>
+<li><a href="https://blog.niice.co/">Nicce on Medium</a>  Gather, share &amp; discuss ideas with your team.</li>
+<li><a href="https://www.artwxrk.com">Artwxrk</a></li>
+<li><a href="http://designspiration.net/">Designspiration</a> is committed to being the best product that it can.</li>
+<li><a href="https://freebiesbug.com/">Freebiesbug</a> Hand-picked resources for web designer and developers, constantly updated.</li>
+<li><a href="http://muuuuu.org/">Muuuuu</a></li>
+<li><a href="https://medium.muz.li/">Muzli on Medium</a> The freshest links about design and interactive, from around the web.</li>
+<li><a href="https://www.thebestdesigns.com/">The Best Designs</a></li>
+<li><a href="http://flatinspire.com/">Flat Inspire</a> is a curated gallery &amp; showcase of the best websites rocking a Flat Design/UI style.</li>
+<li><a href="https://www.siteinspire.com/">Site Inspire</a> is a showcase of the finest web and interactive design.</li>
+<li><a href="https://mediaqueri.es/">Media Queries</a></li>
+<li><a href="https://onepagelove.com/">One Page Love</a> is the leading showcase of beautiful One Page websites, templates and resources.</li>
+<li><a href="https://www.admiretheweb.com/">Admire the Web</a></li>
+<li><a href="https://pttrns.com/">Pttrns</a></li>
+<li><a href="http://www.craftedbylove.com/#/">CRAFTED BY LOVE</a></li>
+<li><a href="https://httpster.net/">HTTPSTER</a></li>
+<li><a href="http://emptystat.es/">Empty States</a></li>
+<li><a href="http://www.calltoidea.com/">Call to Idea</a></li>
+<li><a href="https://siiimple.com/">Siiimple</a></li>
+<li><a href="http://zurb.com/patterntap">Zurb PatternTap</a></li>
+<li><a href="https://land-book.com/">Land Book</a> created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and, really, for everyone who appreciates fine designs and well-crafted sites.</li>
+<li><a href="http://oozled.com/">oozled</a></li>
+<li><a href="http://www.brianlovin.com/design-details/">DESIGN DETAILS</a></li>
+<li><a href="https://www.officelovin.com/">officelovin</a> is an online platform about office architecture &amp; design.</li>
+<li><a href="https://bestwebsite.gallery/">Best Website</a> The most beautiful websites handpicked for you — since 2008!</li>
+<li><a href="http://freedesignresources.net/">FreeDesignResources</a></li>
+<li><a href="http://abduzeedo.com/">Abduzeedo</a></li>
+<li><a href="https://www.materialui.co">Material UI</a></li>
+<li><a href="https://1stwebdesigner.com/blog/">1stwebdesigner</a> By web design professionals, for web design professionals. We&rsquo;re on a mission to help you build a better web.</li>
+<li><a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/">EMOJI CHEAT SHEET</a></li>
+<li><a href="https://afeld.github.io/emoji-css/?ref=webdesignernews.com">EMOJI CSS</a></li>
+<li><a href="https://www.designshock.com/">DesignShock</a> is the biggest bundle/subscription you can find in one place including icons, avatars, graphic elements, GUI packs, design sets and both web and print templates</li>
+<li><a href="http://www.svgporn.com/">SVG PORN</a></li>
+<li><a href="https://design.google.com/devices/">Google Device Metrics</a></li>
+<li><a href="https://www.uplabs.com/">Up</a> is the leading community of creatives, offering the best downloadable resources, every day.</li>
+<li><a href="http://freebbble.com/">Freebbble</a></li>
+<li><a href="https://www.baianat.com/resources/">Baianat</a></li>
+<li><a href="http://www.graphberry.com/">Graphberry</a> provide you with the creative graphic resources you need to transform into your personal or commercial work.</li>
+<li><a href="http://uxchecklist.github.io/">UX Project Checklist</a> 🌟</li>
+<li><a href="http://tridiv.com/">TRIDIV</a> is a web-based editor for creating 3D shapes in CSS.</li>
+<li><a href="http://wefunction.com">Function Design Blog</a> Creating &amp; Curating Design Resources &amp; Inspiration for Designers.</li>
+<li><a href="http://www.mobilemozaic.com/">Mobile Mozaic</a></li>
+<li><a href="http://wwwhere.io/">wwwhere</a></li>
+<li><a href="http://www.lapa.ninja/">Lapa</a> is a gallery featuring the best 1920 landing page examples from around the web.</li>
+<li><a href="https://www.designermill.com/">Designer Mill</a></li>
+<li><a href="http://freebiesjedi.com">Freebiesjedi</a></li>
+<li><a href="https://webfieldmanual.com/">Webfieldmanual</a></li>
+<li><a href="http://www.prototypingtools.co/">Prototyping Tools</a></li>
+<li><a href="https://uxtools.co/">UXTOOLS</a></li>
+<li><a href="https://codemyui.com/">CodeMyUI</a> Web Design &amp; UI Inspiration with Code Snippets.</li>
+</ul>
+<div class="gdoc-page__anchorwrap"><h2 id="styleguide-and-branding">Styleguide and Branding<a data-clipboard-text="http://example.org/resources/Designer-Resources/Design-tools/#styleguide-and-branding" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Styleguide and Branding" href="#styleguide-and-branding"><svg class="icon link"><use xlink:href="#link"></use></svg></a></h2></div>
+<ul>
+<li><a href="https://saijogeorge.com/brand-style-guide-examples/">Brand Style Guide Examples</a></li>
+<li><a href="https://www.mozilla.org/en-US/styleguide/">Mozilla</a></li>
+<li><a href="http://ux.mailchimp.com/patterns/">Mailchimp</a></li>
+<li><a href="https://www.fontshop.com/styleguide/globals">Fontshop</a></li>
+<li><a href="http://rizzo.lonelyplanet.com/styleguide/design-elements/colours">Lonely Planet</a></li>
+<li><a href="https://www.starbucks.com/static/reference/styleguide/">Starbucks</a></li>
+<li><a href="https://www.yelp.com/styleguide">Yelp</a></li>
+<li><a href="https://www.ibm.com/design/language/">IBM</a></li>
+<li><a href="https://www.uber.design">Uber</a></li>
+<li><a href="https://www.atlassian.design/">Atlassian</a></li>
+<li><a href="https://www.dropbox.com/branding">Dropbox</a></li>
+<li><a href="https://developer.spotify.com/design/">Spotify</a></li>
+<li><a href="https://www.youtube.com/yt/about/brand-resources/">Youtube</a></li>
+<li><a href="https://en.facebookbrand.com/">Facebook - Brand Resource Center Book</a></li>
+<li><a href="https://press.vimeo.com/brand-guidelines">Vimeo</a></li>
+<li><a href="http://design.ubuntu.com/">Ubuntu</a></li>
+<li><a href="http://www.bbc.co.uk/gel">BBC</a></li>
+<li><a href="http://styleguides.channel4.com/E4_StyleGuide.pdf">Channel4</a></li>
+<li><a href="https://brand.twitter.com/">Twitter</a></li>
+<li><a href="http://manualcreative.com/project/nike-pro-services/">Nike Pro</a></li>
+<li><a href="https://www.behance.net/gallery/7226653/Medium-Brand-Development">Medium</a></li>
+<li><a href="https://brand.linkedin.com/">Linkedin</a></li>
+<li><a href="http://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf">Red Cross</a></li>
+<li><a href="https://marvelapp.com/styleguide/overview/introduction">Marvel</a></li>
+<li><a href="https://buffer.com/style-guide">buffer</a></li>
+<li><a href="http://vsco.co/id/journal/p/1">VSCO</a></li>
+<li><a href="https://en.instagram-brand.com/">Instagram</a></li>
+<li><a href="https://www.whatsappbrand.com/">WhatsApp</a></li>
+<li><a href="https://www.snapchat.com/brand-guidelines#general-usage-guidelines">Snapchat</a></li>
+<li><a href="https://atlassian.design/">Atlassian</a></li>
+<li><a href="http://clarity.design">Clarity</a></li>
+<li><a href="https://developer.apple.com/ios/human-interface-guidelines/">Apple iOS</a></li>
+<li><a href="https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/">Apple macOS</a></li>
+<li><a href="https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf">Google Trends</a></li>
+<li><a href="https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2">Google Visual Assets Guidelines</a></li>
+<li><a href="https://developers.google.com/glass/design/">Google Design for Glass</a></li>
+<li><a href="https://material.io/guidelines/">Google Material Design</a></li>
+<li><a href="https://www.microsoft.com/en-us/design">Microsoft Design</a></li>
+<li><a href="http://fluent.microsoft.com/">Microsoft Fluent Design System</a></li>
+<li><a href="https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf">NASA 2011</a></li>
+<li><a href="https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf">NASA 1976</a></li>
+<li><a href="http://ant.design">Ant Design</a> is a design system with values of Nature and Determinacy for better user experience of enterprise applications.</li>
+</ul>
+
+
+    </article>
+
+                
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+
+
+
+
+<div class="gdoc-page__footer flex flex-wrap justify-between">
+    
+    
+</div>
+
+            </div>
+        </main>
+
+        <footer class="gdoc-footer">
+    <div class="container flex flex-wrap">
+        <span class="gdoc-footer__item">
+            Built with <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> and
+            <svg class="icon heart"><use xlink:href="#heart"></use></svg>
+        </span>
+        
+        
+    </div>
+</footer>
+
+    </div>
+
+    
+
+
+
+
+<script defer src="/js/en.search.min.js"></script>
+
+
+
+<script defer src="/js/clipboard.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+        var clipboard = new ClipboardJS('.clip');
+    });
+</script>
+
+
+</body>
+</html>

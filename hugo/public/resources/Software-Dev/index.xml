@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GET-DEV-Resources</title>
+    <link>http://example.org/resources/Software-Dev/</link>
+    <description>Recent content on GET-DEV-Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/resources/Software-Dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/resources/Software-Dev/Back-end/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/Software-Dev/Back-end/</guid>
+      <description>Resources and Practices for back-end Developers Languages  DevOps Architecture Golang Java JavaScript Elixir Misc NodeJS/JavaScript PHP Python Ruby  DevOps  Docker Vagrant  Architecture  Explicit Architecture Micro frontends  Golang  Golang  Java  Dropwizard Apache Wicket - Java web app framework. Vert.x - Toolkit for building reactive apps on the JVM. Spring-boot - Spring Boot helps you to create Spring-powered, production-grade applications and services  Javascript  Node.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/resources/Software-Dev/Front-end/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/Software-Dev/Front-end/</guid>
+      <description>Resources for Frontend Developers CSS  Bootstrap - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. bootswatch - Bootswatch is a collection of free themes for Bootstrap. Materialize - A modern responsive front-end framework based on Material Design. SemanticUI - Semantic is a UI component framework based around useful principles from natural language. AmazeUI - A mobile-first and modular front-end framework.</description>
+    </item>
+    
+  </channel>
+</rss>

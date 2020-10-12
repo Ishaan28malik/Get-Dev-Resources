@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "cd themes/hugo-geekdoc && npm i && npm run gulp default",
     "server": "node scripts/copy-content.js && hugo server -D",
-    "build": "node scripts/copy-content.js && hugo"
+    "build": "node scripts/copy-content.js && hugo",
+    "publish": "npm run build && cd .. && git subtree push --prefix public origin gh-pages"
   },
   "author": "",
   "license": "ISC",
