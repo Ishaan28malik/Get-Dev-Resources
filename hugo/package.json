@@ -10,5 +10,8 @@
     "build": "node scripts/copy-content.js && hugo"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
 }
