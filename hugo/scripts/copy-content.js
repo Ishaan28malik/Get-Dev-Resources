@@ -24,17 +24,20 @@ var config = JSON.parse(fs.readFileSync(config_path));
 fs.rmdirSync(path.join(content_path, 'resources'), { recursive: true });
 fs.mkdirSync(path.join(content_path, 'resources'));
 
-var promises = [];
 config.categories.forEach(category => {
     var from = path.join(root_path, category);
     var to = path.join(content_path, 'resources', category);
-
-    promises.push(ncp(from, to));
+    ncp(from, to, (err) => {
+        if (err) {
+            console.error(err);
+        } else {
+            touchSync(path.join(to, '_index.md'));
+        }
+    });
 });
 
-Promise.all(promises).then((_) => {
-    console.log('Symlinks created!', _)
-}, (err) => {
-    console.log('Failed to create content symlinks')
-    console.error(err);
-});
+function touchSync(path) {
+    if(!fs.existsSync(path)) {
+        fs.closeSync(fs.openSync(path, 'w'))
+    }
+}
