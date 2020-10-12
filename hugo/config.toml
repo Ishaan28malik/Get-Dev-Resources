@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://agentender.github.io/Get-Dev-Resources"
 languageCode = "en-us"
 title = "GET-DEV-Resources"
 theme = "hugo-geekdoc"

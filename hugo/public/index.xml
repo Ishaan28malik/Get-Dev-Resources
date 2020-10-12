@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GET DEV RESOURCES on GET-DEV-Resources</title>
-    <link>http://example.org/</link>
+    <link>https://agentender.github.io/Get-Dev-Resources/</link>
     <description>Recent content in GET DEV RESOURCES on GET-DEV-Resources</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://agentender.github.io/Get-Dev-Resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/resources/Data-Science/Artificial-Intelligence/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Artificial-Intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Data-Science/Artificial-Intelligence/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Artificial-Intelligence/</guid>
       <description>3 Best resources for Artificial Intelligence</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Data-Science/Machine-Learning-Resources/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Machine-Learning-Resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Data-Science/Machine-Learning-Resources/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Machine-Learning-Resources/</guid>
       <description>Best Resources for Machine Learning Sources for Learning  Google AI is a free platform with quite a few amazing courses tought by experts from Google. robotic perception and control Arxiv Insights He has a fantastic YouTube channel where he covers key points about machine learning and AI. Talking Machines This podcast has been going strong since 2015, building an audience around its discussion on machine learning topics and robotics.` Machine Learning 101 This podcast aims to pull back the curtain on AI and machine learning, effectively demystifying the field to explain important concepts in an entertaining way that is easy to digest and understand.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Designer-Resources/Design-tools/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Designer-Resources/Design-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Designer-Resources/Design-tools/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Designer-Resources/Design-tools/</guid>
       <description>Best Designer resources Color  Coolors The super fast color schemes generator! Colordot Brand Colors The biggest collection of official brand color codes around. Material Design Palette Flat UI Color Picker LOL COLORS Curated color palette inspiration. The Day&amp;rsquo;s Color is to find colorful inspiration from things that surround us. Daily. Color Claim Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Designer-Resources/Designer-main/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Designer-Resources/Designer-main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Designer-Resources/Designer-main/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Designer-Resources/Designer-main/</guid>
       <description>Designer resources Mockup  Mockup World handpicks and presents the best photorealistic Photoshop mockups that designers and agencies worldwide have published online. Placeit marry design and technology to create high-quality branding and marketing tools so anyone from individuals to large companies can create amazing visual assets for their brand regardless of technical or artistic skills. Epicpxls Free &amp;amp; premium curated fonts, graphics, templates, mobile app designs &amp;amp; UI Kits. 360 Mockups Totally FREE to download PSD Mockups to present your works.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Hacker-resources/Hacking-Tools/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Hacker-resources/Hacking-Tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Hacker-resources/Hacking-Tools/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Hacker-resources/Hacking-Tools/</guid>
       <description>Hacking Tools and softwares.  Adversarial Machine Learning AI Security API Security Checklist APT Notes Bug Bounty Reference Cryptography CTF Tool CVE PoC Detection Lab Forensics Free Programming Books Gray Hacker Resources Hacker101 Hashcat Infosec Getting Started Infosec Reference IOC Linux Kernel Exploitation Lockpicking Machine Learning for Cyber Security Payloads PayloadsAllTheThings Pentest Cheatsheets Pentest Wiki Probable Wordlists Resource List Reverse Engineering RFSec-ToolKit Security Cheatsheets Security List Shell theHarvester ThreatHunter-Playbook Web Security  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Software-Dev/Back-end/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Software-Dev/Back-end/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Software-Dev/Back-end/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Software-Dev/Back-end/</guid>
       <description>Resources and Practices for back-end Developers Languages  DevOps Architecture Golang Java JavaScript Elixir Misc NodeJS/JavaScript PHP Python Ruby  DevOps  Docker Vagrant  Architecture  Explicit Architecture Micro frontends  Golang  Golang  Java  Dropwizard Apache Wicket - Java web app framework. Vert.x - Toolkit for building reactive apps on the JVM. Spring-boot - Spring Boot helps you to create Spring-powered, production-grade applications and services  Javascript  Node.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Software-Dev/Front-end/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Software-Dev/Front-end/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Software-Dev/Front-end/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Software-Dev/Front-end/</guid>
       <description>Resources for Frontend Developers CSS  Bootstrap - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. bootswatch - Bootswatch is a collection of free themes for Bootstrap. Materialize - A modern responsive front-end framework based on Material Design. SemanticUI - Semantic is a UI component framework based around useful principles from natural language. AmazeUI - A mobile-first and modular front-end framework.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Software-Testing.md/No-code-tools/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Software-Testing.md/No-code-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Software-Testing.md/No-code-tools/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Software-Testing.md/No-code-tools/</guid>
       <description>All the tools for UI and Software Testing that requires no-Code Books  The Scrum Field Guide, Agile advice for your first year and beyond - Why you might want to move your company to Agile and great practical advice on how to do it. Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Software-Testing.md/Testing-with-code/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Software-Testing.md/Testing-with-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Software-Testing.md/Testing-with-code/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Software-Testing.md/Testing-with-code/</guid>
       <description>UI libraries or other testing libraries used by developers  python test automation java test automation ruby test automation c# test automation php test automation javascript test automation kotlin test automation test automation and software testing as services mobile, tablet and tv test automation general purpose test automation tools practical test automation by examples  </description>
     </item>
     

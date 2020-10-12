@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GET-DEV-Resources</title>
-    <link>http://example.org/resources/Data-Science/</link>
+    <link>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/</link>
     <description>Recent content on GET-DEV-Resources</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/resources/Data-Science/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/resources/Data-Science/Artificial-Intelligence/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Artificial-Intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Data-Science/Artificial-Intelligence/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Artificial-Intelligence/</guid>
       <description>3 Best resources for Artificial Intelligence</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/resources/Data-Science/Machine-Learning-Resources/</link>
+      <link>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Machine-Learning-Resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/Data-Science/Machine-Learning-Resources/</guid>
+      <guid>https://agentender.github.io/Get-Dev-Resources/resources/Data-Science/Machine-Learning-Resources/</guid>
       <description>Best Resources for Machine Learning Sources for Learning  Google AI is a free platform with quite a few amazing courses tought by experts from Google. robotic perception and control Arxiv Insights He has a fantastic YouTube channel where he covers key points about machine learning and AI. Talking Machines This podcast has been going strong since 2015, building an audience around its discussion on machine learning topics and robotics.` Machine Learning 101 This podcast aims to pull back the curtain on AI and machine learning, effectively demystifying the field to explain important concepts in an entertaining way that is easy to digest and understand.</description>
     </item>
     
