@@ -117,13 +117,18 @@
 
 ### Angular
 
-- [AngularJS](https://angularjs.org/), [github](https://github.com/angular/angular.js)
-- [AngularJS 2](https://angular.io/), [github](https://github.com/angular/angular)
-- [UI Bootstrap](https://github.com/angular-ui/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap.
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
-- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
+- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in Angular.
+
+#### AngularJS
+- [AngularJS](https://angularjs.org/), [github](https://github.com/angular/angular.js)
+- [UI Bootstrap](https://github.com/angular-ui/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap.
 - [Dynamically Loading Controllers and Views with AngularJS/$controllerProvider and RequireJS](http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs)
 - [Mobile Angular UI](https://github.com/mcasimir/mobile-angular-ui) - Angular & Bootstrap 3 for Mobile web and applications.
+
+#### Angular 2+
+- [Angular 2](https://angular.io/), [github](https://github.com/angular/angular)
+- [Angular Compenents](https://material.angular.io/), [github](https://github.com/angular/components) - Official components made by the Angular team at google
 
 ### Native Script
 
