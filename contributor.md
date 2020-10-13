@@ -1,10 +1,10 @@
-# Contributing 
+# How to Contribute 
 
 <div style="text-align:center; width:100%">
 <img  src="https://github.com/Ishaan28malik/Get-Dev-Resources/blob/main/src/assets/Git-octo.gif" />
 </div>
 
-## Cloning the Repository
+## Clone the Repository
  - Fork the Repository, this is to take a copy of the whole repository into your own GitHub account.
  - Next, navigate to your command line interface to clone the project on your local machine. 
    You can do that with the `git clone https://github.com/yourUsername/theNameOfTheRepo.git` clone command.
@@ -13,11 +13,11 @@
    You can think of a branch as a way to request a brand new working directory, staging area, and project history. You can create a new branch by executing the command
    `git checkout -b branch_name`.
 
-## Editing Code Content
+## Edit Code Content
    You now have a copy of the repository on your local machine, so you’re ready to prepare your contribution. 
    It’s important to take the time to read and understand how the project is organized 
 
-## Adding Content to the Remote Repository
+## Add Content to the Remote Repository
    Now that you have a change made to the repository, you’ll need to track and save that change. The first step in tracking your change is to add it to the version you’re working on. 
    To do that, you need to execute the command `git add .` 
    
@@ -29,12 +29,12 @@
    After committing, you’ll need to push changes from your local machine to the remote repository on GitHub. 
    To do this, execute the command `git push`.
    
-## Creating a Pull Request
+## Create a Pull Request
    You’re now ready to let the maintainers of the project know that you have a change to the repository that you’re confident about and ready to submit. 
    To do this, click the pull request button on the top right of the repository.
 
-### Good PRs that solve any of the existing issues or upcoming issues and helps in improving the Repo quality and not quantity are welcome.
-### No spam Prs that aim only to get a +1 count in Hacktoberfest are appreciated and will be marked `invalid`.
+#### Good PRs that solve any of the existing issues or upcoming issues and helps in improving the Repo quality and not quantity are welcome.
+#### No spam Prs that aim only to get a +1 count in Hacktoberfest are appreciated and will be marked `invalid`.
 
 
 
