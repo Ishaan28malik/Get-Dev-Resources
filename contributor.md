@@ -9,8 +9,9 @@
  - Next, navigate to your command line interface to clone the project on your local machine. 
    You can do that with the `git clone https://github.com/yourUsername/theNameOfTheRepo.git` clone command.
  
-## Make a new branch other than master using
-`git checkout -b branch_name`
+## Make a new branch other than master 
+   You can think of a branch as a way to request a brand new working directory, staging area, and project history. You can create a new branch by executing the command
+   `git checkout -b branch_name`.
 
 ## Editing Code Content
    You now have a copy of the repository on your local machine, so you’re ready to prepare your contribution. 
@@ -32,8 +33,8 @@
    You’re now ready to let the maintainers of the project know that you have a change to the repository that you’re confident about and ready to submit. 
    To do this, click the pull request button on the top right of the repository.
 
-   **Good PRs that solve any of the existing issues or upcoming issues and helps in improving the Repo quality and not quantity are welcome.
-     No spam Prs that aim only to get a +1 count in Hacktoberfest are appreciated and will be marked `invalid`**.
+### Good PRs that solve any of the existing issues or upcoming issues and helps in improving the Repo quality and not quantity are welcome.
+### No spam Prs that aim only to get a +1 count in Hacktoberfest are appreciated and will be marked `invalid`.
 
 
 
