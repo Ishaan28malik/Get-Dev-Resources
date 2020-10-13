@@ -9,7 +9,7 @@
  - Next, navigate to your command line interface to clone the project on your local machine. 
    You can do that with the `git clone https://github.com/yourUsername/theNameOfTheRepo.git` clone command.
  
-## Make a new branch other than master 
+## Make a new branch other than main 
    You can think of a branch as a way to request a brand new working directory, staging area, and project history. You can create a new branch by executing the command
    `git checkout -b branch_name`.
 
