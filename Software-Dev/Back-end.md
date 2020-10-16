@@ -9,7 +9,7 @@
 - [JavaScript](#javascript)
 - [Elixir](#elixir)
 - [Misc](#misc)   
-- [NodeJS/JavaScript/Deno](#nodejs/deno)
+- [NodeJS/JavaScript/Deno](#nodejsdeno)
 - [PHP](#php)   
 - [Python](#python)
 - [Ruby](#ruby)
