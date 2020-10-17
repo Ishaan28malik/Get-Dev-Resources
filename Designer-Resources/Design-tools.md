@@ -107,13 +107,13 @@
 - [Brick](http://brick.im/)
 - [Village](https://vllg.com/)
 - [Klim](https://klim.co.nz/)
-- [Milieu Grotesque](https://www.milieugrotesque.com/) is an independent type foundry, offering an exclusive library of digital typefaces and related products.
-- [Lineto](https://lineto.com/)
-- [Colophon](https://www.colophon-foundry.org/) is an international, award-winning type foundry based in London (UK) and Los Angeles (US).
-- [T26](https://www.t26.com/)
-- [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
-- [TypeNetwork](https://www.typenetwork.com/)
-- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Milieu Grotesque] (https://www.milieugrotesque.com/) is an independent type foundry, offering an exclusive library of digital typefaces and related products.
+- [Lineto] (https://lineto.com/)
+- [Colophon] (https://www.colophon-foundry.org/) is an international, award-winning type foundry based in London (UK) and Los Angeles (US).
+- [T26] (https://www.t26.com/)
+- [Typ.io] (https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
+- [TypeNetwork] (https://www.typenetwork.com/)
+- [The League of Moveable Type] (https://www.theleagueofmoveabletype.com/)
 
 ## Toolkit
 
