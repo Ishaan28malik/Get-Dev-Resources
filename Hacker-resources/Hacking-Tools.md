@@ -36,3 +36,9 @@
 * [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) 
 * [Web Security](https://github.com/qazbnm456/awesome-web-security) 
 * [Nmap](https://nmap.org/) 
+
+You can check this also
+
+1. Burp Suite: The quintessential web app hacking tool. Once you hit 500 reputation on HackerOne, you are eligible for a free 3-month license of Burp Suite Pro! Check out these awesome Burp plugins:
+
+2. ActiveScan++: ActiveScan++ extends Burp Suite's active and passive scanning capabilities. Designed to add minimal network overhead, it identifies application behavior that may be of interest to advanced testers.
