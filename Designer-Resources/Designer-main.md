@@ -24,7 +24,7 @@
 - [DesignSchool](https://designschool.canva.com/) Anyone can make beautiful designs with Canva.
 - [Envato Tuts+](https://tutsplus.com/) helps you learn creative skills and shape the life you want.
 - [Udemy](https://www.udemy.com/courses/design/) The leading global marketplace for learning and instruction.
-- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
+- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于 2004 年的计算机图形图像教学服务网站，也是国内最早的原创 CG 视频教学的制作者。
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
@@ -81,3 +81,4 @@
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+- [Niice] (https://www.niice.co) Make your semantics boards and get some inspiriations for your project.

@@ -9,14 +9,16 @@
 - [JavaScript](#javascript)
 - [Elixir](#elixir)
 - [Misc](#misc)   
-- [NodeJS/JavaScript](#nodejs)
+- [NodeJS/JavaScript/Deno](#nodejsdeno)
 - [PHP](#php)   
 - [Python](#python)
 - [Ruby](#ruby)
+- [Kotlin](#Kotlin)
 
 ## DevOps
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
+- [DataOps Methodology](https://cognitiveclass.ai/courses/data-ops-methodology)
 
 ## Architecture
 - [Explicit Architecture](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
@@ -51,10 +53,11 @@
 - [Swagger Tools](https://github.com/swagger-api) - API framework for designing, building, and documenting RESTful APIs.
 - [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - Tech and social media is having a big impact on our society.
 
-## NodeJS
+## NodeJS/Deno
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 - [Airbnb JavaScript Style Guide](https://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/index.html)
 - [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Deno (crash course)](https://denobeginner.com/)
 
 ## PHP
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
