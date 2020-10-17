@@ -18,6 +18,7 @@
 ## DevOps
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
+- [DataOps Methodology](https://cognitiveclass.ai/courses/data-ops-methodology)
 
 ## Architecture
 - [Explicit Architecture](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)

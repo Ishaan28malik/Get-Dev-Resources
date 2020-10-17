@@ -187,6 +187,8 @@
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript.
 - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
+- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) - In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
+
 
 ### Graphic
 
