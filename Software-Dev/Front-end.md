@@ -22,7 +22,8 @@
 - [Tailwind](https://tailwindcss.com/) - Tailwind CSS is highly customizable, low-level CSS Framework to build bespoke designs.
 - [Antd](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Vanila](https://vanillacss.com/) - Vanilla CSS is a minimal baseline stylesheet for any web project. It includes a basic reset and default styling for all HTML5 elements.
-- [Bourborn](http://bourbon.io/) - Bourbon is a lightweight Sass tool set.
+- [Tailwindcss](https://tailwindcss.com) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+- [Bourborn](http://bourbon.com/) - Bourbon is a lightweight Sass tool set.
 
 ### CSS Animation
 
