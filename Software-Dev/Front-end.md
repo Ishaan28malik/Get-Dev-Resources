@@ -103,6 +103,7 @@
 - [ConvertICO](http://convertico.com/) - ConvertICO is a free online ICO/PNG file converter.
 - [ICO converter](https://www.icoconverter.com/) - ICO converter is a simple online .ico image converter. It will take any image and convert it to ICO file, for web site favicon or Windows applications.
 - [Nerd Fonts](https://nerdfonts.com/) - Iconic font aggregator, collection, and patcher.
+- [flaticon](https://www.flaticon.com/packs/websites-logos) - 3494000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons!
 
 ### JS Code Style
 
