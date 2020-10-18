@@ -23,6 +23,7 @@
 - [Antd](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Vanila](https://vanillacss.com/) - Vanilla CSS is a minimal baseline stylesheet for any web project. It includes a basic reset and default styling for all HTML5 elements.
 - [Bourborn](http://bourbon.io/) - Bourbon is a lightweight Sass tool set.
+- [Julian Evans CSS Guide](https://wizardzines.com/comics/css-borders/)
 
 ### CSS Animation
 
