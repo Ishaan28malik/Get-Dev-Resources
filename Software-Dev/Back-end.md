@@ -58,6 +58,7 @@
 - [Airbnb JavaScript Style Guide](https://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/index.html)
 - [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Deno (crash course)](https://denobeginner.com/)
+- [Node.js advanced](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-node-for-developers%2F)
 
 ## PHP
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
