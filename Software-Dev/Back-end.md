@@ -14,6 +14,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Kotlin](#Kotlin)
+- [.NET](#.NET)
 
 ## DevOps
 - [Docker](https://github.com/veggiemonk/awesome-docker)
