@@ -59,6 +59,7 @@
 - [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Deno (crash course)](https://denobeginner.com/)
 - [Node.js advanced](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-node-for-developers%2F)
+- [Express.js for Beginners](https://www.tutorialspoint.com/expressjs/expressjs_quick_guide.htm)
 
 ## PHP
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
