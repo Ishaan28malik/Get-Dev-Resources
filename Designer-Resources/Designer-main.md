@@ -47,6 +47,11 @@
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
+- [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/)
+- [Emotional Design](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367/)
+- [Designing for Digital Age](https://www.amazon.com/Designing-Digital-Age-Publisher-Wiley/dp/B004R616HE)
+- [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/B00HZY1N0K/)
 
 ## Podcast
 
