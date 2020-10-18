@@ -142,6 +142,7 @@
 - [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
 - [React in patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React. 
 - [React Spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinners with React.js based on Halogen. This package is bootstraped using [react-npm-boilerplate](https://github.com/juliancwirko/react-npm-boilerplate). 
+- [React Grommet](https://v2.grommet.io/) - A react based framework that provides so many easy to use components to make your life easier.
 
 ### Vue
 
