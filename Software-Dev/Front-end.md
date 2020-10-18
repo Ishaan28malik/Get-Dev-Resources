@@ -3,6 +3,7 @@
 ### CSS
 
 - [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [Bootstrap extension](https://bootstrap-extension.com/) - The Bootstrap extension provides the Bootstrap 4 web front-end framework to MediaWiki
 - [bootswatch](https://github.com/thomaspark/bootswatch/) - Bootswatch is a collection of free themes for Bootstrap.
 - [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 - [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
