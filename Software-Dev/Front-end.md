@@ -40,7 +40,7 @@
 - [filter.css](https://github.com/simurai/filter.css) - A collection of CSS filter combos.
 - [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [loading.io](https://loading.io/) - Ajax Loader, Animated Icons, Live Background in GIF / SVG / APNG / CSS !
-- [CSS Tricks] (https://css-tricks.com/) is excellent for shorthand properties in CSS as well as form new animations as wellm as guidance.
+- [CSS Tricks](https://css-tricks.com/) is excellent for shorthand properties in CSS as well as form new animations as wellm as guidance.
 
 
 ### Icon Fonts
@@ -262,7 +262,7 @@
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Smartcrop.js implements an algorithm to find good crops for images.
-- [Eloquent JS-Third Edition](https://eloquentjavascript.net/)is a good resource book by Marijn Haverbeke.
+- [Eloquent JS-Third Edition](https://eloquentjavascript.net/) is a good resource book by Marijn Haverbeke.
 
 ## Articles
 
