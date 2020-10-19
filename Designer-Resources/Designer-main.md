@@ -16,7 +16,6 @@
 - [Rotato 3D mockups](https://rotato.xyz)
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
-- [CSS Tricks](https://css-tricks.com/) is really good if you want to explore ideas or want to learn about some new, modern CSS property or want the world to know about some new package/plugin you developed on your own. Its a free kind of a community of its own.
 
 ## Tutorial
 
@@ -31,7 +30,7 @@
 - [greyscalegorilla](https://greyscalegorilla.com/)
 - [Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Design%20Courses) An online learning platform with over 13,000 courses taught by real-world experts and a library that is constantly up to date.
 - [Pluralsight](https://www.pluralsight.com/search?q=Design%20Courses)
-- [Coursera](www.coursera.org) is an excellent to learn courses regarding development.
+
 
 ## Books
 
