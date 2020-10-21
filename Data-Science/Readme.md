@@ -1,13 +1,5 @@
-In this guide, we’ll share 65 free data science resources that we’ve hand-picked and annotated for beginners.
+## Major Skillset and Resources
 
-To become data scientist, you have a formidable challenge ahead. You’ll need to master a variety of skills, ranging from machine learning to business analytics.
-
-However, the rewards are worth it. Organizations will prize alchemists who can turn raw data into smarter decisions, better products, happier customers, and ultimately more profit. Plus, you’ll get to solve interesting problems and master new, impactful technologies.
-
-If that sounds like a career you’d enjoy, then bookmark this page and read on because we compiled this list just for you.
-
-Data Science Resources
-Foundational Skills
 Programming and Data Wrangling
 Statistics and Probability
 Technical Skills
@@ -29,7 +21,6 @@ Projects
 Competitions
 Problem Solving Challenges
 Data Science Diamond
-*Note: Advanced, Niche, or Industry-Specific Skills
 
 Certain roles might require other skills, such as:
 
