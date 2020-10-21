@@ -281,6 +281,8 @@
 - [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Read Documentations offline](https://devdocs.io/)
+- [Web Fundamentals for Google](https://developers.google.com/web/fundamentals)
+- [Responsive web design Patterns according to Google](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns) 
 
 ## Newsletters 
 
