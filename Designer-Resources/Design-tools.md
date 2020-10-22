@@ -35,6 +35,9 @@
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Colorhunt](https://colorhunt.co/) is a free palette picking tool, and contains a lot of amazing palettes for daily use cases.
 - [material.io](https://material.io/) Material is a design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web.
+- [Eggradients](https://eggradients.com) Ready to use gradient background colors.
+- [Grabient](https://grabient.com) Beautiful and simple UI for generating web gradients.
+- [ColorHexa.com](https://colorhexa.com) Color hex encyclopedia providing information about any color.
 
 ## Icon and Logo
 
@@ -114,6 +117,32 @@
 - [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [DaFont](https://dafont.com) Archive of freely downloadable fonts.
+
+## Pictures
+
+- [Shutterstock](https://shutterstock.com) Download the best royalty free images from Shutterstock, including photos,vectors and illustrations.
+- [Getty Images](https://gettyimages.com) is a photo library of creative stock photos, vector art illustrations and stock photography.
+- [Unsplash](https://unsplash.com) contains beautiful, free images and photos that you can download and use for any project.
+- [Pexels](https://pexels.com) a collection of free stock photos you can use anywhere, all free for commercial use and no attribution needed.
+- [Pixabay](https://pixabay.com) Free image or video to download and use for anything.
+
+## Illustrations
+
+- [Humaaans](https://humaaans.com) Mix-&-match illustrations of people with a design library for InVision Studio and Sketch.
+- [unDraw](https://undraw.co) The design project with open-source illustrations for any idea you can imagine and create.
+- [DrawKit](https://drawkit.io) Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.
+- [Illlustrations](https://illlustrations.co) Large set of opensource illustrations.
+
+## Inspiration
+
+- [Inspiration Grid](https://theinspirationgrid.com) Your daily fix of design, art, illustration, typography, photography, architecture, fashion and more.
+- [Muzli](https://muz.li) Designers' Secret Source: all design inspiration you need. Served fresh.
+- [Pttrns](https://pttrns.com) Pttrns is the finest collection of design patterns, resources and inspiration. Loads of screen looks for apps and screen ideas for different activities.
+- [Lapa Ninja](https://lapa.ninja) The best landing page design inspiration from around the web.
+- [Awwwards](https://awwwards.co) Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+- [Dribbble](https://dribbble.com) Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
+- [Behance](https://behance.net) Behance is a social media platform owned by Adobe where designers showcase their works while also connecting with other designers and gaining inspiration.
 
 ## Toolkit
 
