@@ -53,6 +53,7 @@
 - [Emotional Design](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367/)
 - [Designing for Digital Age](https://www.amazon.com/Designing-Digital-Age-Publisher-Wiley/dp/B004R616HE)
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/B00HZY1N0K/)
+-[the design of every thing](https://g.co/kgs/soqgFr)
 
 ## Podcast
 
