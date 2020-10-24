@@ -31,3 +31,5 @@
 * [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
 
 * [coderarchive](https://www.youtube.com/channel/UCWaB4SBBUCvhYb91fz5Vidg)
+
+* [corey schafer](https://www.youtube.com/user/schafer5) - Mainly for complete python course(django is too good)

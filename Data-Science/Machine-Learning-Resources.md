@@ -16,3 +16,5 @@
 * [Two minute papers](https://www.youtube.com/user/keeroyz) This is a great YouTube channel where the person highlights the latest research papers in AI by summarizing them in around 2 minutes. So, a great place to know the gist of the paper before reading it completely.
 * [Data School](https://www.youtube.com/c/dataschool/videos) This is a high quality youtube channel which teaches you valuable machine learning tips and tricks clearly, and to-the-point.
 * [deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) This channel officially hosts videos of Deep Learning specialization course on Coursera and some other motivating videos for an ML learner.
+* [krish naik](https://www.youtube.com/user/krishnaik06) 
+This channel mainly focuses on Data Science and is best place to learn Data Science for free.
