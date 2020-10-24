@@ -25,3 +25,9 @@
 * [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/featured) - Learn from a professional, along with programming best-practices.
 
 * [The Net Ninja](https://www.youtube.com/c/TheNetNinja/videos) - Hands down the best flutter, firebase and firestore series are here.
+
+* [Design Course](https://www.youtube.com/user/DesignCourse)
+
+* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+
+* [coderarchive](https://www.youtube.com/channel/UCWaB4SBBUCvhYb91fz5Vidg)
