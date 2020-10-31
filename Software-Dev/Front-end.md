@@ -155,7 +155,7 @@
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 - [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
 - [Muse-UI](http://www.muse-ui.org)
-- [Awesome Vue] (https://github.com/vuejs/awesome-vue) - A collection of some awesome things regarding Vue ecosystem.
+- [Awesome Vue](https://github.com/vuejs/awesome-vue) - A collection of some awesome things regarding Vue ecosystem.
 
 ### Ember
 
