@@ -1,5 +1,7 @@
 # Resources for Frontend Developers
 
+
+
 ### CSS
 
 - [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
@@ -258,6 +260,26 @@
 
 - [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
+
+### Workflow
+    - [Vid: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
+    - [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
+    - [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
+        - [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
+        - [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
+    - Front-end Process - Flat Builds and Automation
+        - [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
+        - [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
+        - [Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)
+        - [CSS Framework (Intuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
+    - [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
+    - [Helium](https://github.com/geuis/helium-css) - javascript tool to scan your site and show unused CSS
+    - [Roots](http://roots.cx/)
+    - [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
+    - [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
+    - [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
+    - [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
+    - [Cartero](https://github.com/rotundasoftware/cartero)
 
 ### Misc
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
