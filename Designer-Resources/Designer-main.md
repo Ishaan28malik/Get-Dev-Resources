@@ -16,7 +16,8 @@
 - [Rotato 3D mockups](https://rotato.xyz)
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
--[Thingiverse] (https://www.thingiverse.com) Contains lot of 3d models which you can use it for free, especially for 3d Printnig Purposes
+-[Thingiverse] (https://www.thingiverse.com) Contains lot of 3d models which you can use it for free, especially for 3d Printing Purposes.
+- [GraphicsFuel](https://www.graphicsfuel.com) Tonnes of mockup templates to download and work with.
 
 ## Tutorial
 
