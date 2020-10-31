@@ -27,3 +27,15 @@
 * [The Net Ninja](https://www.youtube.com/c/TheNetNinja/videos) - Hands down the best flutter, firebase and firestore series are here.
 
 *  [CodingEntrepreneurs](https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg) - Amazing Starts Small. Learn to build great products with code.
+
+* [Design Course](https://www.youtube.com/user/DesignCourse)
+
+* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+
+* [coderarchive](https://www.youtube.com/channel/UCWaB4SBBUCvhYb91fz5Vidg)
+
+* [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) - Coding/Development tutorials in Hindi
+
+* [edureka](https://www.youtube.com/user/edurekaIN) - All the tutorials related to Technologies, Programming, Development
+
+* [Coding in Flow](https://www.youtube.com/c/CodinginFlow) - For Android Development tutorials

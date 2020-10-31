@@ -136,6 +136,9 @@
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Canva](https://www.canva.com/) Create stunning designs with Canva's awesome suite of features.
+- [Crello](https://crello.com/) Crello is the easiest online design tool to create animations and graphics for social and web. Create like a pro. No design skills needed.
+
 
 ## Prototyping
 
