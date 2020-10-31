@@ -39,3 +39,11 @@
 * [edureka](https://www.youtube.com/user/edurekaIN) - All the tutorials related to Technologies, Programming, Development
 
 * [Coding in Flow](https://www.youtube.com/c/CodinginFlow) - For Android Development tutorials
+
+* [Treehouse] (https://www.youtube.com/user/gotreehouse)
+
+* [Derek Banas](https://www.youtube.com/user/derekbanas) - Banas is the creator of the hugely popular Learn JavaScript in 30 Minutes playlist
+
+* [thenewboston](https://www.youtube.com/user/thenewboston)
+
+* [kudvenkat](https://www.youtube.com/user/kudvenkat) - Everything on .NET
