@@ -48,7 +48,7 @@
 
 ### Component Development tools
 
-- [Storybook](git@github.com:taylor009/Get-Dev-Resources.git) - Tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient.
+- [Storybook](https://storybook.js.org/) - Tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient.
 
 ### Icon Fonts
 
