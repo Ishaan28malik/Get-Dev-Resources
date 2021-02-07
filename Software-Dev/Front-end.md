@@ -101,6 +101,7 @@
 - [Undraw.co](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 - [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons.
+- [icon8](https://icons8.com/icons/set/website)
 - [eva-icons](https://github.com/akveo/eva-icons/) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 
 ### Icon Websites
@@ -255,6 +256,7 @@
 
 - [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured javascript lightbox gallery. No dependencies.
+- [OwlCarousel] (https://owlcarousel2.github.io/OwlCarousel2/)
 
 ### Multimedia
 
