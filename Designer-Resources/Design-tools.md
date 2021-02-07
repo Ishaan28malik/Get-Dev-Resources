@@ -1,5 +1,11 @@
 # Best Designer resources
 
+
+UI design patterns. Each pattern comes with fully interactive examples, downloadable source code and can be used on mobile devices. 
+
+9. ColorZilla
+Advanced color and style tools and goodies for web developers and graphic designers.
+
 ## Color
 
 - [Coolors](https://coolors.co/) The super fast color schemes generator!
