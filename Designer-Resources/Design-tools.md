@@ -3,9 +3,6 @@
 
 UI design patterns. Each pattern comes with fully interactive examples, downloadable source code and can be used on mobile devices. 
 
-9. ColorZilla
-Advanced color and style tools and goodies for web developers and graphic designers.
-
 ## Color
 
 - [Coolors](https://coolors.co/) The super fast color schemes generator!
@@ -25,6 +22,7 @@ Advanced color and style tools and goodies for web developers and graphic design
 - [Colorize](https://alexbeals.com/projects/colorize/) is a website that turns any word or phrase into a hex color.
 - [Hello Color](http://jxnblk.com/hello-color/)
 - [Web Color Data](http://webcolourdata.com/) aims to uncover some insights about colours on the web, in particular, some questions I've struggled with as a designer.
+- [Colorzilla] (https://www.colorzilla.com/)
 - [Color Lisa](http://www.colorlisa.com/) is a curated list of color palettes based on masterpieces of the worlds greatest artists.
 - [ColorDrop](https://colordrop.io/)
 - [colorfavs](http://www.colorfavs.com/) a place that made it easy to create and discover new colors and palettes for all of your projects.
