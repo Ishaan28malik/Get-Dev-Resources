@@ -137,6 +137,8 @@ UI design patterns. Each pattern comes with fully interactive examples, download
 - [unDraw](https://undraw.co) The design project with open-source illustrations for any idea you can imagine and create.
 - [DrawKit](https://drawkit.io) Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.
 - [Illlustrations](https://illlustrations.co) Large set of opensource illustrations.
+- [FreeIllustration] (https://freeillustrations.xyz/) Good collection of free to use illustrations.
+- [is.graphics] (https://www.ls.graphics/?status=accepted&expires=1638330303&p_sid=15046&p_aid=52526&p_link=1681&p_tok=de00e368-a7fd-4694-ad78-7d0cc2f85c1c) Great collection of illustrations and mockups.
 
 ## Inspiration
 
