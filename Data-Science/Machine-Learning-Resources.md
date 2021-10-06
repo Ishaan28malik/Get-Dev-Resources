@@ -11,7 +11,8 @@
 * [Machine Learning 101](https://www.learningmachines101.com/) This podcast aims to pull back the curtain on AI and machine learning, effectively demystifying the field to explain important concepts in an entertaining way that is easy to digest and understand. Things do get technical now and then, but these short 20-30 minute episodes are great for listeners at all levels.
 * [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends. This free Machine Learning with Python course will give you all the tools you need to get started with supervised and unsupervised learning.
 * [Machine Learning with R](https://cognitiveclass.ai/courses/machine-learning-r) Learn what machine learning is all about in this beginner-friendly course. Through videos and labs, learn how to apply different machine learning techniques such as classification, clustering, neural networks, regression, and recommender systems.
-* [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) Coursera provided Machine Learnign course from Andrew Ng, founding lead of Google Brain.
+* [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) Coursera provided Machine Learning course from Andrew Ng, founding lead of Google Brain.
+* [Machine Learning courses by AWS](https://aws.amazon.com/training/learn-about/machine-learning/?n) Develop your machine learning expertise with courses built by the experts at AWS.
 
 # Youtube Channels
 * [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) This is a great YouTube channel where you can understand the latest research papers in machine learning and deep learning.
