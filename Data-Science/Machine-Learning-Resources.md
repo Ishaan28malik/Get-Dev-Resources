@@ -13,6 +13,7 @@
 * [Machine Learning with R](https://cognitiveclass.ai/courses/machine-learning-r) Learn what machine learning is all about in this beginner-friendly course. Through videos and labs, learn how to apply different machine learning techniques such as classification, clustering, neural networks, regression, and recommender systems.
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) Coursera provided Machine Learning course from Andrew Ng, founding lead of Google Brain.
 * [Machine Learning courses by AWS](https://aws.amazon.com/training/learn-about/machine-learning/?n) Develop your machine learning expertise with courses built by the experts at AWS.
+* [Machine Learning with TensorFlow](https://www.tensorflow.org/resources/learn-ml) Start with our guided curriculums designed to increase your knowledge, or choose your own path by exploring our resource library.
 
 # Youtube Channels
 * [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) This is a great YouTube channel where you can understand the latest research papers in machine learning and deep learning.
