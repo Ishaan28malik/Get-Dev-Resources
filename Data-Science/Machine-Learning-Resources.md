@@ -14,6 +14,7 @@
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) Coursera provided Machine Learning course from Andrew Ng, founding lead of Google Brain.
 * [Machine Learning courses by AWS](https://aws.amazon.com/training/learn-about/machine-learning/?n) Develop your machine learning expertise with courses built by the experts at AWS.
 * [Machine Learning with TensorFlow](https://www.tensorflow.org/resources/learn-ml) Start with our guided curriculums designed to increase your knowledge, or choose your own path by exploring our resource library.
+* [Towards Data Science Medium Blog](https://towardsdatascience.com/) Good Articles written by tech savvys of Machine Learning Field. It covers from basic to advanced topics.
 
 # Youtube Channels
 * [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) This is a great YouTube channel where you can understand the latest research papers in machine learning and deep learning.
