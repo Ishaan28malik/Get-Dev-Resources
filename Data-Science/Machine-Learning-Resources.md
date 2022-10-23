@@ -7,6 +7,9 @@
 * [Elements of AI](https://www.elementsofai.com/) free online courses for encouraging people to learn AI and start creating AI methods.
 * [Google AI](https://ai.google/education/) is a free platform with quite a few amazing courses tought by experts from Google.
 * [ robotic perception and control](https://github.com/google-research/tensor2robot) 
+
+## Blogs
+* [how-to-learn-machine-learning](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1) 
 * [Talking Machines](https://www.thetalkingmachines.com/home?context_entity_type=node&context_entity_id=14033) This podcast has been going strong since 2015, building an audience around its discussion on machine learning topics and robotics.
 * [Machine Learning 101](https://www.learningmachines101.com/) This podcast aims to pull back the curtain on AI and machine learning, effectively demystifying the field to explain important concepts in an entertaining way that is easy to digest and understand. Things do get technical now and then, but these short 20-30 minute episodes are great for listeners at all levels.
 * [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends. This free Machine Learning with Python course will give you all the tools you need to get started with supervised and unsupervised learning.
