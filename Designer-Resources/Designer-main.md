@@ -16,6 +16,8 @@
 - [Rotato 3D mockups](https://rotato.xyz)
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
+-[Thingiverse] (https://www.thingiverse.com) Contains lot of 3d models which you can use it for free, especially for 3d Printing Purposes.
+- [GraphicsFuel](https://www.graphicsfuel.com) Tonnes of mockup templates to download and work with.
 
 ## Tutorial
 
@@ -48,6 +50,12 @@
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
+- [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/)
+- [Emotional Design](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367/)
+- [Designing for Digital Age](https://www.amazon.com/Designing-Digital-Age-Publisher-Wiley/dp/B004R616HE)
+- [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/B00HZY1N0K/)
+-[the design of every thing](https://g.co/kgs/soqgFr)
 
 ## Podcast
 
@@ -82,3 +90,4 @@
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+- [Niice] (https://www.niice.co) Make your semantics boards and get some inspiriations for your project.

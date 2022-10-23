@@ -1,8 +1,11 @@
 # Resources for Frontend Developers
 
+
+
 ### CSS
 
 - [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [Bootstrap extension](https://bootstrap-extension.com/) - The Bootstrap extension provides the Bootstrap 4 web front-end framework to MediaWiki
 - [bootswatch](https://github.com/thomaspark/bootswatch/) - Bootswatch is a collection of free themes for Bootstrap.
 - [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 - [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
@@ -23,6 +26,7 @@
 - [Antd](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Vanila](https://vanillacss.com/) - Vanilla CSS is a minimal baseline stylesheet for any web project. It includes a basic reset and default styling for all HTML5 elements.
 - [Bourborn](http://bourbon.io/) - Bourbon is a lightweight Sass tool set.
+- [Julian Evans CSS Guide](https://wizardzines.com/comics/css-borders/)
 
 ### CSS Animation
 
@@ -42,6 +46,10 @@
 - [loading.io](https://loading.io/) - Ajax Loader, Animated Icons, Live Background in GIF / SVG / APNG / CSS !
 - [CSS Tricks](https://css-tricks.com/) is excellent for shorthand properties in CSS as well as form new animations as wellm as guidance.
 
+
+### Component Development tools
+
+- [Storybook](https://storybook.js.org/) - Tool for developing UI components in isolation for React, Vue, Angular, and more. It makes building stunning UIs organized and efficient.
 
 ### Icon Fonts
 
@@ -94,6 +102,7 @@
 - [Undraw.co](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
 - [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons.
+- [icon8](https://icons8.com/icons/set/website)
 - [eva-icons](https://github.com/akveo/eva-icons/) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 
 ### Icon Websites
@@ -141,6 +150,7 @@
 - [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
 - [React in patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React. 
 - [React Spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinners with React.js based on Halogen. This package is bootstraped using [react-npm-boilerplate](https://github.com/juliancwirko/react-npm-boilerplate). 
+- [React Grommet](https://v2.grommet.io/) - A react based framework that provides so many easy to use components to make your life easier.
 
 ### Vue
 
@@ -149,7 +159,7 @@
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 - [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
 - [Muse-UI](http://www.muse-ui.org)
-- [Awesome Vue] (https://github.com/vuejs/awesome-vue) - A collection of some awesome things regarding Vue ecosystem.
+- [Awesome Vue](https://github.com/vuejs/awesome-vue) - A collection of some awesome things regarding Vue ecosystem.
 
 ### Ember
 
@@ -188,6 +198,8 @@
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript.
 - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
+- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) - In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
+
 
 ### Graphic
 
@@ -245,11 +257,32 @@
 
 - [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured javascript lightbox gallery. No dependencies.
+- [OwlCarousel] (https://owlcarousel2.github.io/OwlCarousel2/)
 
 ### Multimedia
 
 - [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
+
+### Workflow
+    - [Vid: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
+    - [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
+    - [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
+        - [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
+        - [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
+    - Front-end Process - Flat Builds and Automation
+        - [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
+        - [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
+        - [Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)
+        - [CSS Framework (Intuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
+    - [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
+    - [Helium](https://github.com/geuis/helium-css) - javascript tool to scan your site and show unused CSS
+    - [Roots](http://roots.cx/)
+    - [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
+    - [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
+    - [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
+    - [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
+    - [Cartero](https://github.com/rotundasoftware/cartero)
 
 ### Misc
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
@@ -263,6 +296,7 @@
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Smartcrop.js implements an algorithm to find good crops for images.
 - [Eloquent JS-Third Edition](https://eloquentjavascript.net/) is a good resource book by Marijn Haverbeke.
+- [Tensorflow.js](https://github.com/tensorflow/tfjs) - For machine learning in Javascript
 
 ## Articles
 
@@ -278,6 +312,8 @@
 - [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Read Documentations offline](https://devdocs.io/)
+- [Web Fundamentals for Google](https://developers.google.com/web/fundamentals)
+- [Responsive web design Patterns according to Google](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns) 
 
 ## Newsletters 
 
