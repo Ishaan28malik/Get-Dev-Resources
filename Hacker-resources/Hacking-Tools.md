@@ -20,7 +20,8 @@
 * [IOC](https://github.com/sroberts/awesome-iocs) 									
 * [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) 
 * [Lockpicking](https://github.com/meitar/awesome-lockpicking) 
-* [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   
+* [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+* [OWASP - Open Web Application Security Project](https://wiki.owasp.org/index.php/Main_Page) 
 * [Payloads](https://github.com/foospidy/payloads)  
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)  
 * [Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		
@@ -35,3 +36,6 @@
 * [theHarvester](https://github.com/laramies/theHarvester)								
 * [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) 
 * [Web Security](https://github.com/qazbnm456/awesome-web-security) 
+* [Nmap](https://nmap.org/)
+* [WireShark](https://www.wireshark.org/)
+
