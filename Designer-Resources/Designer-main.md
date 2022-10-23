@@ -50,13 +50,14 @@
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
+- [Designing Next Gen Web Projects] (https://www.amazon.in/Designing-Next-Generation-Projects-CSS3/dp/1849693269/ref=sr_1_36?dchild=1&keywords=Web+Designing+Books&qid=1602420729&sr=8-36)
 - [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
 - [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/)
 - [Emotional Design](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367/)
 - [Designing for Digital Age](https://www.amazon.com/Designing-Digital-Age-Publisher-Wiley/dp/B004R616HE)
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/B00HZY1N0K/)
--[the design of every thing](https://g.co/kgs/soqgFr)
-
+- [the design of every thing](https://g.co/kgs/soqgFr)
+ 
 ## Podcast
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
