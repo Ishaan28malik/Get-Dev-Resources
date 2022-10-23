@@ -1,5 +1,8 @@
 # Best Designer resources
 
+
+UI design patterns. Each pattern comes with fully interactive examples, downloadable source code and can be used on mobile devices. 
+
 ## Color
 
 - [Coolors](https://coolors.co/) The super fast color schemes generator!
@@ -19,6 +22,7 @@
 - [Colorize](https://alexbeals.com/projects/colorize/) is a website that turns any word or phrase into a hex color.
 - [Hello Color](http://jxnblk.com/hello-color/)
 - [Web Color Data](http://webcolourdata.com/) aims to uncover some insights about colours on the web, in particular, some questions I've struggled with as a designer.
+- [Colorzilla] (https://www.colorzilla.com/)
 - [Color Lisa](http://www.colorlisa.com/) is a curated list of color palettes based on masterpieces of the worlds greatest artists.
 - [ColorDrop](https://colordrop.io/)
 - [colorfavs](http://www.colorfavs.com/) a place that made it easy to create and discover new colors and palettes for all of your projects.
@@ -34,6 +38,10 @@
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Colorhunt](https://colorhunt.co/) is a free palette picking tool, and contains a lot of amazing palettes for daily use cases.
+- [material.io](https://material.io/) Material is a design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web.
+- [Eggradients](https://eggradients.com) Ready to use gradient background colors.
+- [Grabient](https://grabient.com) Beautiful and simple UI for generating web gradients.
+- [ColorHexa.com](https://colorhexa.com) Color hex encyclopedia providing information about any color.
 
 ## Icon and Logo
 
@@ -113,6 +121,32 @@
 - [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [DaFont](https://dafont.com) Archive of freely downloadable fonts.
+
+## Pictures
+
+- [Shutterstock](https://shutterstock.com) Download the best royalty free images from Shutterstock, including photos,vectors and illustrations.
+- [Getty Images](https://gettyimages.com) is a photo library of creative stock photos, vector art illustrations and stock photography.
+- [Unsplash](https://unsplash.com) contains beautiful, free images and photos that you can download and use for any project.
+- [Pexels](https://pexels.com) a collection of free stock photos you can use anywhere, all free for commercial use and no attribution needed.
+- [Pixabay](https://pixabay.com) Free image or video to download and use for anything.
+
+## Illustrations
+
+- [Humaaans](https://humaaans.com) Mix-&-match illustrations of people with a design library for InVision Studio and Sketch.
+- [unDraw](https://undraw.co) The design project with open-source illustrations for any idea you can imagine and create.
+- [DrawKit](https://drawkit.io) Free vector SVG illustrations for you to use on your next project, no attribution required! Vector illustrations, packs, icons and more.
+- [Illlustrations](https://illlustrations.co) Large set of opensource illustrations.
+
+## Inspiration
+
+- [Inspiration Grid](https://theinspirationgrid.com) Your daily fix of design, art, illustration, typography, photography, architecture, fashion and more.
+- [Muzli](https://muz.li) Designers' Secret Source: all design inspiration you need. Served fresh.
+- [Pttrns](https://pttrns.com) Pttrns is the finest collection of design patterns, resources and inspiration. Loads of screen looks for apps and screen ideas for different activities.
+- [Lapa Ninja](https://lapa.ninja) The best landing page design inspiration from around the web.
+- [Awwwards](https://awwwards.co) Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+- [Dribbble](https://dribbble.com) Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
+- [Behance](https://behance.net) Behance is a social media platform owned by Adobe where designers showcase their works while also connecting with other designers and gaining inspiration.
 
 ## Toolkit
 
@@ -135,6 +169,9 @@
 - [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
 - [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
 - [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+- [Canva](https://www.canva.com/) Create stunning designs with Canva's awesome suite of features.
+- [Crello](https://crello.com/) Crello is the easiest online design tool to create animations and graphics for social and web. Create like a pro. No design skills needed.
+
 
 ## Prototyping
 
@@ -156,6 +193,7 @@
 - [POP](https://marvelapp.com/pop/?popref=1) Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) Prototyping tool for Web, iOS, Android apps.
 - [Bubble](https://bubble.io/) It's a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code.
+- [TinkerCad] (https://tinkercad.com) Site for Designing 3d Models as well as view others and create prototyping Circuits.
 
 ## User Testing
 
@@ -321,3 +359,13 @@
 - [NASA 2011](https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
 - [NASA 1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 - [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
+
+
+Introducing Aviat Design 2.0 – Aviat’s FREE Link Planning Tool
+[Aviat Design](https://aviatnetworks.com/tag/link-design-tool/)
+Aviat Design 2.0 is the next generation microwave planning tool. 
+It uses the latest SaaS web technology to allow users to design microwave
+Links anytime and anywhere. Aviat Design 2.0 supports the full portfolio of 
+Aviat Networks equipment and protection configurations. Special features allow 
+users to design microwave links accurately and quickly.
+

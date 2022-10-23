@@ -16,6 +16,8 @@
 - [Rotato 3D mockups](https://rotato.xyz)
 - [Lorem Ipsum](http://www.lipsum.com/feed/html)
 - [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
+-[Thingiverse] (https://www.thingiverse.com) Contains lot of 3d models which you can use it for free, especially for 3d Printing Purposes.
+- [GraphicsFuel](https://www.graphicsfuel.com) Tonnes of mockup templates to download and work with.
 
 ## Tutorial
 
@@ -24,12 +26,13 @@
 - [DesignSchool](https://designschool.canva.com/) Anyone can make beautiful designs with Canva.
 - [Envato Tuts+](https://tutsplus.com/) helps you learn creative skills and shape the life you want.
 - [Udemy](https://www.udemy.com/courses/design/) The leading global marketplace for learning and instruction.
-- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于2004年的计算机图形图像教学服务网站，也是国内最早的原创CG视频教学的制作者。
+- [AboutCG](http://www.aboutcg.com/) 前身是 CG 共和国（CGGHG）, 是成立于 2004 年的计算机图形图像教学服务网站，也是国内最早的原创 CG 视频教学的制作者。
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
 - [Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Design%20Courses) An online learning platform with over 13,000 courses taught by real-world experts and a library that is constantly up to date.
 - [Pluralsight](https://www.pluralsight.com/search?q=Design%20Courses)
+
 
 ## Books
 
@@ -47,7 +50,14 @@
 - [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
 - [Usability Matters: Mobile-first UX for developers and other accidental designers](https://www.manning.com/books/usability-matters)
 - [Design for the Mind](https://www.manning.com/books/design-for-the-mind)
-
+- [Designing Next Gen Web Projects] (https://www.amazon.in/Designing-Next-Generation-Projects-CSS3/dp/1849693269/ref=sr_1_36?dchild=1&keywords=Web+Designing+Books&qid=1602420729&sr=8-36)
+- [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/)
+- [The Elements of User Experience](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684/)
+- [Emotional Design](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367/)
+- [Designing for Digital Age](https://www.amazon.com/Designing-Digital-Age-Publisher-Wiley/dp/B004R616HE)
+- [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/B00HZY1N0K/)
+- [the design of every thing](https://g.co/kgs/soqgFr)
+ 
 ## Podcast
 
 - [99% INVISIBLE](http://99percentinvisible.org/)
@@ -81,3 +91,4 @@
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+- [Niice] (https://www.niice.co) Make your semantics boards and get some inspiriations for your project.
