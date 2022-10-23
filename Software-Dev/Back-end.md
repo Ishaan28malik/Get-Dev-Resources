@@ -32,6 +32,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 - [Spring-boot](https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/) - Spring Boot helps you to create Spring-powered, production-grade applications and services
+- [Java Language Best Practices](https://docs.oracle.com/cd/A97688_16/generic.903/bp/java.htm)
 
 ## Javascript
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
