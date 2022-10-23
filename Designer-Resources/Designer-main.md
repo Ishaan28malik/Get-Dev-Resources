@@ -33,6 +33,7 @@
 - [Linkedin Learning](https://www.linkedin.com/learning/search?keywords=Design%20Courses) An online learning platform with over 13,000 courses taught by real-world experts and a library that is constantly up to date.
 - [Pluralsight](https://www.pluralsight.com/search?q=Design%20Courses)
 
+
 ## Books
 
 - [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books&ie=UTF8&qid=1473096298&sr=1-2&keywords=Universal+Methods+of+Design)
